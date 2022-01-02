@@ -14,33 +14,20 @@ You can contact me with...
 
 ## Projects
 ###  I'm currently working on...
-- [ARA](https://github.com/ARA-developer/ARA) project
-- [Penso](https://github.com/PensoTeam) project
-- [한글시계](https://hangulclock.today/#/) projet(모바일 한글시계 개발)
-
+- [ARA](https://github.com/ARA-developer/ARA) project : 1월 중 베타 테스트 시작 예정
+- [Penso](https://github.com/PensoTeam) project : 딥러닝 학습 목적의 프로젝트
+- [한글시계](https://hangulclock.today/#/) projet(모바일 한글시계 개발) : 첫 개발 완료 후 유지보수 및 업데이트 중
 ### Projects that I stopped or finished...
 - Not yet typed
 
 
-## Studying...
-- Mobile application programming: Kotlin & Swift
-- Not yet typed
+## I'm studying...
+- Mobile application programming: Android(Kotlin) & iOS(Swift)
+- Very beginning of Machine Learning & Deep Learning
+
+## I'm looking forward to study
+- Visual Localization : 사진 & 영상으로 해당 장소의 위치와 각도를 추측
+- Human - Object interaction detaction : 사물과 사람간의 관계를 인식, 상황의 맥락을 읽음
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=JoonLee-K&show_icons=true)](https://github.com/JoonLee-K/)
-
-
-<!--
-**JoonLee-K/JoonLee-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
