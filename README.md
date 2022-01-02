@@ -14,10 +14,17 @@ You can contact me with...
 
 ## Projects
 ###  I'm currently working on...
+#### Mainly
 - [ARA](https://github.com/ARA-developer/ARA) project : 1월 중 베타 테스트 시작 예정
 - [Penso](https://github.com/PensoTeam) project : 딥러닝 학습 목적의 프로젝트
+
+#### Postponed
+- 
+
+#### Somewhat often
 - [한글시계](https://hangulclock.today/#/) projet(모바일 한글시계 개발) : 첫 개발 완료 후 유지보수 및 업데이트 중
-### Projects that I stopped or finished...
+
+#### Stopped or finished
 - Not yet typed
 
 
