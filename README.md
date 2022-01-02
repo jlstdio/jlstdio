@@ -1,23 +1,27 @@
-# JoonHee Lee
+## HeLlo WoRlD
+제 이름은!.. 이준희(JoonHee Lee)입니다.
 
-## Hi there 👋
+소프트웨어로 오프라인과 온라인의 SEAMLESS한 융합을 만들고 싶은 사람입니다
 
-## Let me introduce myself
-![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)
+
 - majoring Computer Science at Hongik Univ (Sejong Campus)
 
+## You can contact me with...
+![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanchaa@gmail.com)](mailto:neo81389@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-black?style=falt-suqre&logo=github&logoColor=white&link=https://github.io/hanchaa)](https://joonlee.notion.site/JoonLee-Studio-dab0807295ad4a47802561c3b5bf4ad7)
 
 ## Projects
-
-### currently
+###  I'm currently working on...
 - [ARA](https://github.com/ARA-developer/ARA) project
 - [Penso](https://github.com/PensoTeam) project
+- [한글시계](https://hangulclock.today/#/) projet(모바일 한글시계 개발)
 
-### stopped | finished
+### Projects that I stopped or finished...
 - Not yet typed
 
 
-## Studying
+## Studying...
 - Mobile application programming: Kotlin & Swift
 - Not yet typed
 
