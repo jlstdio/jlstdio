@@ -7,11 +7,9 @@
 
 소프트웨어로 오프라인과 온라인의 SEAMLESS한 융합을 만들고 싶은 사람입니다
 
-## You can contact me with...
+You can contact me with...
 ![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanchaa@gmail.com)](mailto:neo81389@gmail.com)
-
 [![Blog Badge](https://img.shields.io/badge/Blog-black?style=falt-suqre&logo=github&logoColor=white&link=https://joonlee.notion.site/JoonLee-Studio-dab0807295ad4a47802561c3b5bf4ad7)](https://joonlee.notion.site/JoonLee-Studio-dab0807295ad4a47802561c3b5bf4ad7)
 
 ## Projects
