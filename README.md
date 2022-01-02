@@ -5,7 +5,7 @@
 
 이준희(JoonHee Lee)입니다.
 
-한줄소개 : 소프트웨어로 오프라인과 온라인의 SEAMLESS한 융합을 만들고 싶은 사람입니다
+소프트웨어로 오프라인과 온라인의 SEAMLESS한 융합을 만들고 싶은 사람입니다
 
 ## You can contact me with...
 ![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)
