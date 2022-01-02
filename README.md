@@ -30,4 +30,6 @@ You can contact me with...
 - Human - Object interaction detaction : 사물과 사람간의 관계를 인식, 상황의 맥락을 읽음
 
 
+
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=JoonLee-K&show_icons=true)](https://github.com/JoonLee-K/)
