@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=JoonHeeLee&fontColor=#000000&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
 
-## HeLlo WoRlD
-제 이름은!.. 이준희(JoonHee Lee)입니다.
+## Joon Hee Lee
+안녕하세요 제 이름은..!
+
+이준희(JoonHee Lee)입니다.
 
 한줄소개 : 소프트웨어로 오프라인과 온라인의 SEAMLESS한 융합을 만들고 싶은 사람입니다
 
