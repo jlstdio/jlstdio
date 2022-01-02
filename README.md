@@ -29,11 +29,12 @@ You can contact me with...
 
 
 ## I'm studying...
+<img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Kotlin-ffffff?style=flat-square&logo=Kotlin&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Swift-ffffff?style=flat-square&logo=Swift&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C-ffffff?style=flat-square&logo=C&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C_Sharp-ffffff?style=flat-square&logo=CSharp&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Kotlin-ffffff?style=flat-square&logo=Kotlin&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Swift-ffffff?style=flat-square&logo=Swift&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=black"/></a>
 
 <img src="https://img.shields.io/badge/Android-ffffff?style=flat-square&logo=Android&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/iOS-ffffff?style=flat-square&logo=Apple&logoColor=black"/></a>
