@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
 
 ## Joon Hee Lee
-안녕하세요 제 이름은..!
+Hi!
 
-이준희(JoonHee Lee)입니다.
+My Name is Joon Lee (Korean Name : Lee Joon Hee)
 
-소프트웨어로 오프라인과 온라인의 SEAMLESS한 융합을 만들고 싶은 사람입니다
+I'm the person who tries to make seamless integration between online & offline world
 
 You can contact me with...
 ![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)
@@ -15,17 +15,17 @@ You can contact me with...
 ## Projects
 ###  I'm currently working on...
 #### Mainly
-- [ARA](https://github.com/ARA-developer/ARA) project : 1월 중 베타 테스트 시작 예정
-- [Penso](https://github.com/PensoTeam) project : 딥러닝 학습 목적의 프로젝트
+- [ARA](https://github.com/ARA-developer/ARA) project : Beta test will begin in early Feb of 2022
+- [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose
 
 #### Postponed
-- 
+- TBA
 
 #### Somewhat often
-- [한글시계](https://hangulclock.today/#/) projet(모바일 한글시계 개발) : 첫 개발 완료 후 유지보수 및 업데이트 중
+- mobile [한글시계](https://hangulclock.today/#/) projet : Maintaining & small updates
 
 #### Stopped or finished
-- Not yet typed
+- TBA
 
 
 ## I'm studying...
