@@ -8,8 +8,8 @@ My Name is Joon Lee (Korean Name : Lee Joon Hee)
 I'm the person who tries to make seamless integration between online & offline world
 
 You can contact me with...
-![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanchaa@gmail.com)](mailto:neo81389@gmail.com)
+[![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)](https://www.instagram.com/js_develop/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-black?style=falt-suqre&logo=github&logoColor=white&link=https://joonlee.notion.site/JoonLee-Studio-dab0807295ad4a47802561c3b5bf4ad7)](https://joonlee.notion.site/JoonLee-Studio-dab0807295ad4a47802561c3b5bf4ad7)
 
 ## Projects
