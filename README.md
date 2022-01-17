@@ -27,6 +27,8 @@ You can contact me with...
 #### Stopped or finished
 - TBA
 
+#### mini, sidey projects
+- exif editor
 
 ## I'm studying...
 <img src="https://img.shields.io/badge/Python-4ae495?style=flat-square&logo=Python&logoColor=black"/></a>
