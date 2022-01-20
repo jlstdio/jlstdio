@@ -48,6 +48,7 @@ You can contact me with...
 - Very beginning of Machine Learning & Deep Learning
 
 ## I'm looking forward to study
+- Autonomous Driving : making driving program that runs on 'CARLA simulator' + I have plan to particiapte in Autonomous Driving competition
 - Visual Localization : 사진 & 영상으로 해당 장소의 위치와 각도를 추측
 - Human - Object interaction detaction : 사물과 사람간의 관계를 인식, 상황의 맥락을 읽음
 
