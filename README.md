@@ -43,6 +43,7 @@ You can contact me with...
 
 <img src="https://img.shields.io/badge/Firebase-4ae495?style=flat-square&logo=Firebase&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/webRTC-4ae495?style=flat-square&logo=webRTC&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/OpenCV-4ae495?style=flat-square&logo=OpenCV&logoColor=black"/></a>
 - Mobile application programming: Android(Kotlin) & iOS(Swift)
 - implementation of 'webRTC' on mobile & dataChannel implementing
 - Very beginning of Machine Learning & Deep Learning
