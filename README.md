@@ -7,6 +7,8 @@ My Name is Joon Lee (Korean Name : Lee Joon Hee)
 
 I'm the person who tries to make seamless integration between online & offline world
 
+I'm majoring Computer Engineering/Science at Hongik Univ.
+
 You can contact me with...
 [![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)](https://www.instagram.com/js_develop/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com)
