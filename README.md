@@ -7,11 +7,7 @@ My Name is Joon Lee (Korean Name : Lee Joon Hee)
 
 I'm the person who tries to make seamless integration between online & offline world
 
-Currently studying Computer Engineering/Science at Hongik Univ.
-
 온라인과 오프라인 사이에서 소프트웨어가 우리의 삶을 더 윤택하게 만들 수 있는 것들을 탐구하고 있습니다.
-
-현재 홍익대학교에서 컴퓨터공학을 학부생으로서 전공하고 있습니다.
 
 You can contact me with...
 [![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)](https://www.instagram.com/js_develop/)
