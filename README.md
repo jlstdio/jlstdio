@@ -21,7 +21,8 @@ You can contact me with...
 - [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
 
 #### Postponed
-- TBA
+- [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
+- [RE](https://github.com/JoonLee-K/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
 
 #### Somewhat often
 - mobile [한글시계](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
