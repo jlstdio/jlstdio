@@ -27,7 +27,8 @@ You can contact me with...
 - mobile [한글시계](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates
 
 #### Stopped or finished
-- TBA
+- [New Sense](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding
+- [WAG](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation
 
 #### mini, sidey projects
 - exif editor
