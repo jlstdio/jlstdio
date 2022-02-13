@@ -17,18 +17,18 @@ You can contact me with...
 ## Projects
 ###  I'm currently working on...
 #### Mainly
-- [ARA](https://github.com/ARA-developer/ARA) project : Beta test will begin in early Feb of 2022
-- [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose
+- [ARA](https://github.com/ARA-developer/ARA) project : Beta test will begin in early Feb of 2022 (Dec, 2020~)
+- [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
 
 #### Postponed
 - TBA
 
 #### Somewhat often
-- mobile [한글시계](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates
+- mobile [한글시계](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
 
 #### Stopped or finished
-- [New Sense](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding
-- [WAG](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation
+- [New Sense](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding (2018)
+- [WAG](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
 
 #### mini, sidey projects
 - exif editor
