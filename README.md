@@ -40,6 +40,7 @@ You can contact me with...
 <img src="https://img.shields.io/badge/Java-4ae495?style=flat-square&logo=Java&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Swift-4ae495?style=flat-square&logo=Swift&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C-4ae495?style=flat-square&logo=C&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/C++-4ae495?style=flat-square&logo=Cplusplus&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C_Sharp-4ae495?style=flat-square&logo=CSharp&logoColor=black"/></a>
 
 <img src="https://img.shields.io/badge/Android-4ae495?style=flat-square&logo=Android&logoColor=black"/></a>
