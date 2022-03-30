@@ -51,7 +51,7 @@ You can contact me with...
 <img src="https://img.shields.io/badge/OpenCV-4ae495?style=flat-square&logo=OpenCV&logoColor=black"/></a>
 - Mobile application programming: Android(Kotlin) & iOS(Swift)
 - implementation of 'webRTC' on mobile & dataChannel implementing
-- Very beginning of Machine Learning & Deep Learning
+- Very beginning of Machine Learning & Deep Learning (Lecture 'CS231n' from Stanford Univ)
 
 ## I'm looking forward to study
 - Autonomous Driving : making driving program that runs on 'CARLA simulator' + I have plan to particiapte in Autonomous Driving competition
