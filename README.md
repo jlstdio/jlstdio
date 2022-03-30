@@ -34,7 +34,7 @@ You can contact me with...
 #### mini, sidey projects
 - exif editor
 
-## I'm studying...
+## I'm studying / doing...
 <img src="https://img.shields.io/badge/Python-4ae495?style=flat-square&logo=Python&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Kotlin-4ae495?style=flat-square&logo=Kotlin&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Java-4ae495?style=flat-square&logo=Java&logoColor=black"/></a>
@@ -49,6 +49,9 @@ You can contact me with...
 <img src="https://img.shields.io/badge/Firebase-4ae495?style=flat-square&logo=Firebase&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/webRTC-4ae495?style=flat-square&logo=webRTC&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/OpenCV-4ae495?style=flat-square&logo=OpenCV&logoColor=black"/></a>
+
+<img src="https://img.shields.io/badge/DeepLearning-4ae495?style=flat-square&logo=OpenAI&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/MachineLearning-4ae495?style=flat-square&logo=OpenAI&logoColor=black"/></a>
 - Mobile application programming: Android(Kotlin) & iOS(Swift)
 - implementation of 'webRTC' on mobile & dataChannel implementing
 - Very beginning of Machine Learning & Deep Learning (Lecture 'CS231n' from Stanford Univ)
