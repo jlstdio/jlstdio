@@ -33,7 +33,6 @@ You can contact me with...
 
 #### mini, sidey projects
 - exif editor
-- [SBS 치얼업 드라마 소품용 어플(2022년 방영)](https://github.com/JoonLee-K/CheerUp-Demo-App) : 드라마 방영중 필요한 어플 제작 담당
 
 ## I'm studying / doing...
 <img src="https://img.shields.io/badge/Python-4ae495?style=flat-square&logo=Python&logoColor=black"/></a>
