@@ -10,9 +10,7 @@ I'm the person who tries to make seamless integration between online & offline w
 온라인과 오프라인 사이에서 소프트웨어가 우리의 삶을 더 윤택하게 만들 수 있는 것들을 탐구하고 있습니다.
 
 You can contact me with...
-[![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/js_develop/)](https://www.instagram.com/js_develop/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Blog-black?style=falt-suqre&logo=github&logoColor=white&link=https://joonlee.notion.site/JoonLee-Studio-dab0807295ad4a47802561c3b5bf4ad7)](https://joonlee.notion.site/JoonLee-Studio-dab0807295ad4a47802561c3b5bf4ad7)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
 
 ## Projects
 ###  I'm currently working on...
