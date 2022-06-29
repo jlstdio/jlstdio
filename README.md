@@ -16,9 +16,9 @@ You can contact me with...
 ###  I'm currently working on...
 #### Mainly
 - [ARA](https://github.com/ARA-developer/ARA) project : Beta test will begin in early Feb of 2022 (Dec, 2020~)
-- [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
 
 #### Postponed
+- [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
 - [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
 - [RE](https://github.com/JoonLee-K/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
 
@@ -50,9 +50,12 @@ You can contact me with...
 
 <img src="https://img.shields.io/badge/DeepLearning-4ae495?style=flat-square&logo=OpenAI&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/MachineLearning-4ae495?style=flat-square&logo=OpenAI&logoColor=black"/></a>
+
+<img src="https://img.shields.io/badge/Qiskit-4ae495?style=flat-square&logo=Qiskit&logoColor=black"/></a>
 - Mobile application programming: Android(Kotlin) & iOS(Swift)
 - implementation of 'webRTC' on mobile & dataChannel implementing
 - Very beginning of Machine Learning & Deep Learning (Lecture 'CS231n' from Stanford Univ)
+- Very beginning of Quamtum Computing [Learning Quantum Computer](https://github.com/JoonLee-K/QuantumComputingLearning)
 
 ## I'm looking forward to study
 - Autonomous Driving : making driving program that runs on 'CARLA simulator' + I have plan to particiapte in Autonomous Driving competition
