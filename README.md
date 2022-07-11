@@ -28,6 +28,7 @@ You can contact me with...
 #### Stopped or finished
 - [New Sense](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding (2018)
 - [WAG](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
+- [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P data transfer that makes possible with iOS & Android & MacOS & Windows
 
 #### mini, sidey projects
 - exif editor
