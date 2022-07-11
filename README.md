@@ -22,10 +22,8 @@ You can contact me with...
 - [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
 - [RE](https://github.com/JoonLee-K/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
 
-#### Somewhat often
-- mobile [한글시계](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
-
 #### Stopped or finished
+- [mobile 한글시계-Maintaining](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
 - [New Sense](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding (2018)
 - [WAG](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P data transfer that makes possible with iOS & Android & MacOS & Windows
