@@ -24,8 +24,8 @@ You can contact me with...
 
 #### Stopped or finished
 - [mobile 한글시계-Maintaining](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
-- [New Sense](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding (2018)
-- [WAG](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
+- [New Sense-Finished](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding (2018)
+- [WAG-Stopped](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P data transfer that makes possible with iOS & Android & MacOS & Windows
 
 #### mini, sidey projects
