@@ -57,8 +57,7 @@ You can contact me with...
 - Very beginning of Quamtum Computing [Learning Quantum Computer](https://github.com/JoonLee-K/QuantumComputingLearning)
 
 ## I'm looking forward to study
-- Autonomous Driving : making driving program that runs on 'CARLA simulator' + I have plan to particiapte in Autonomous Driving competition
-- Visual Localization : 사진 & 영상으로 해당 장소의 위치와 각도를 추측
+- Quantum Computing : more about quantum computing & maybe research about application of AI
 - Human - Object interaction detaction : 사물과 사람간의 관계를 인식, 상황의 맥락을 읽음
 
 ## Decoration
