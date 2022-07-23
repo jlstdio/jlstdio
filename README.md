@@ -15,7 +15,8 @@ You can contact me with...
 ## Projects
 ###  I'm currently working on...
 #### Mainly
-- [ARA](https://tosssync.web.app/) project : Beta test will begin in early Feb of 2022 (Dec, 2020~) [Organization](https://github.com/ARA-developer/ARA)
+- [ARA](https://tosssync.web.app/) project : Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://github.com/ARA-developer/ARA)
+- [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P data transfer system that makes possible with iOS & Android & MacOS & Windows : This is part of ARA project
 
 #### Postponed
 - [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
@@ -26,7 +27,6 @@ You can contact me with...
 - [mobile 한글시계-Maintaining](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
 - [New Sense-Finished](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding (2018)
 - [WAG-Stopped](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
-- [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P data transfer system that makes possible with iOS & Android & MacOS & Windows
 
 #### mini, sidey projects
 - exif editor
