@@ -15,7 +15,7 @@ You can contact me with...
 ## Projects
 ###  I'm currently working on...
 #### Mainly
-- [ARA](https://github.com/ARA-developer/ARA) project : Beta test will begin in early Feb of 2022 (Dec, 2020~)
+- [ARA](https://tosssync.web.app/) project : Beta test will begin in early Feb of 2022 (Dec, 2020~) [Organization](https://github.com/ARA-developer/ARA)
 
 #### Postponed
 - [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
