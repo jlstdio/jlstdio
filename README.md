@@ -16,7 +16,7 @@ You can contact me with...
 ###  I'm currently working on...
 #### Mainly
 - [ARA](https://tosssync.web.app/) project : Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://github.com/ARA-developer/ARA)
-- [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P data transfer system that makes possible with iOS & Android & MacOS & Windows : This is part of ARA project
+- [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that makes data transfer possible with iOS & Android & MacOS & Windows : This is part of ARA project
 
 #### Postponed
 - [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
