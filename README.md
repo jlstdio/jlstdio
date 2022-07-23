@@ -20,7 +20,6 @@ You can contact me with...
 
 #### Postponed
 - [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
-- [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
 - [RE](https://github.com/JoonLee-K/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
 
 #### Stopped or finished
@@ -30,6 +29,7 @@ You can contact me with...
 
 #### mini, sidey projects
 - exif editor
+- [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
 
 ## I'm studying / doing...
 <img src="https://img.shields.io/badge/Python-4ae495?style=flat-square&logo=Python&logoColor=black"/></a>
