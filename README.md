@@ -9,7 +9,7 @@ Interested in making seamless integration between online & offline world
 Such as HCI(Human Computer Interaction).
 
 
-You can contact me with...
+You can contact me on...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
 
 ## Projects
