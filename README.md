@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
 
 ## Joon Hee Lee
-Hi!
 
-My Name is Joon Lee (Korean Name : Lee Joon Hee)
-
-I'm the person who tries to make seamless integration between online & offline world
-
+Interested in making seamless integration between online & offline world
 온라인과 오프라인 사이에서 소프트웨어가 우리의 삶을 더 윤택하게 만들 수 있는 것들을 탐구하고 있습니다.
+
+Such as HCI(Human Computer Interaction).
+
 
 You can contact me with...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
