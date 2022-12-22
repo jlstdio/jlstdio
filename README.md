@@ -57,8 +57,8 @@ You can contact me on...
 - Very beginning of Quamtum Computing [Learning Quantum Computer](https://github.com/JoonLee-K/QuantumComputingLearning)
 
 ## I'm looking forward to study
-- Quantum Computing : more about quantum computing & maybe research about application of AI
-- Human - Object interaction detaction : 사물과 사람간의 관계를 인식, 상황의 맥락을 읽음
+- [MAIN] HCI || HCS (Human Computer Interaction || Human Centered System)  : Reading context of human behavior through sensing
+- [SIDE] Quantum Computing : more about quantum computing & maybe research about application to AI
 
 ## Decoration
 [![github stats](https://github-readme-stats.vercel.app/api?username=JoonLee-K&show_icons=true)](https://github.com/JoonLee-K/)
