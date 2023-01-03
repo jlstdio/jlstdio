@@ -12,6 +12,10 @@ Such as HCI(Human Computer Interaction).
 You can contact me on...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
 
+Majoring Computser Science in Hongik Univ
+
+Doing Undergraduate Research Student in Chung-Ang Univ (CAU)
+
 ## Projects
 ###  I'm currently working on...
 #### Mainly
