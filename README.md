@@ -2,11 +2,11 @@
 
 ## Joon Hee Lee
 
-Interested in making seamless integration between online & offline world
+Interested in understanding the world using technology to make better world.
 
-온라인과 오프라인 사이에서 소프트웨어가 우리의 삶을 더 윤택하게 만들 수 있는 것들을 탐구하고 있습니다.
+기술을 통해 세상을 더 잘 이해하여 우리의 삶에 긍정적인 기여를 하는 것에 관심이 있습니다.
 
-Such as HCI(Human Computer Interaction).
+HCI(Human Computer Interaction).
 
 
 You can contact me on...
@@ -14,7 +14,7 @@ You can contact me on...
 
 Majoring Computer Science in Hongik Univ
 
-Doing Undergraduate Research Student in Chung-Ang Univ (CAU)
+Doing Undergraduate Research Student in [HCSLAB@CSU](https://sites.google.com/view/hcslab-cau/home?authuser=0)
 
 ## Projects
 ###  I'm currently working on...
