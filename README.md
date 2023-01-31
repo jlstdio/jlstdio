@@ -10,7 +10,10 @@ HCI(Human Computer Interaction).
 
 
 You can contact me on...
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
+
+Personal [Instagram](https://www.instagram.com/jlstdio/)
 
 Majoring Computer Science in Hongik Univ
 
@@ -19,7 +22,7 @@ Doing Undergraduate Research Student in [HCSLAB@CSU](https://sites.google.com/vi
 ## Projects
 ###  I'm currently working on...
 #### Mainly
-- [ARA](https://tosssync.web.app/) project : Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://github.com/ARA-developer/ARA)
+- [ARA](https://tosssync.web.app/) project : Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://www.instagram.com/vast.dev/)
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
 
 #### Postponed
