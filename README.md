@@ -7,14 +7,18 @@ Interested in understanding the world using technology to make better world.
 
 기술을 통해 세상을 더 잘 이해하여 우리의 삶에 긍정적인 기여를 하는 것에 관심이 있습니다.
 
-HCI(Human Computer Interaction).
+### Main interest field
+- HCI(Human Computer Interaction)
 
+### Sub insterest field
+- Quantum Computing
+- Deep learning & compling AI
 
-You can contact me on...
-
+### You can contact me on...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
 
-Personal [Instagram](https://www.instagram.com/jlstdio/)
+![Gmail Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlstdio/)
+: [@jlstdio](https://www.instagram.com/jlstdio/)
 
 # Education
 - Daeryun High School 2017 ~ 2019
@@ -70,8 +74,8 @@ Personal [Instagram](https://www.instagram.com/jlstdio/)
 - Very beginning of Quamtum Computing [Learning Quantum Computer](https://github.com/JoonLee-K/QuantumComputingLearning)
 
 ## I'm looking forward to study
-- [MAIN] HCI || HCS (Human Computer Interaction || Human Centered System)  : Reading context of human behavior through sensing
-- [SIDE] Quantum Computing : more about quantum computing & maybe research about application to AI
+- Quantum Computing : more about quantum computing & maybe research about application to AI
+- Compling AI
 
 ## Decoration
 [![github stats](https://github-readme-stats.vercel.app/api?username=JoonLee-K&show_icons=true)](https://github.com/JoonLee-K/)
