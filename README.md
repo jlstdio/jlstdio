@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
 
-## Joon Hee Lee
+# About Me
+### Joon Hee Lee
 
 Interested in understanding the world using technology to make better world.
 
@@ -15,11 +16,16 @@ You can contact me on...
 
 Personal [Instagram](https://www.instagram.com/jlstdio/)
 
-Majoring Computer Science in Hongik Univ
+# Education
+- Daeryun High School 2017 ~ 2019
+- Majoring Computer Science in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) 2021 ~ Present
 
-Doing Undergraduate Research Student in [HCSLAB@CSU](https://sites.google.com/view/hcslab-cau/home?authuser=0)
+# Experience
+- Team leader in [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ Present
+- Undergraduate Research Student in [HCSLAB@CSU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
+- Member in [NAEK YEHS](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present
 
-## Projects
+# Projects
 ###  I'm currently working on...
 #### Mainly
 - [ARA](https://tosssync.web.app/) project : Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://www.instagram.com/vast.dev/)
