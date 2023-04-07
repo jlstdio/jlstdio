@@ -69,7 +69,7 @@ Interested in understanding the world using technology to make better world.
 
 <img src="https://img.shields.io/badge/Qiskit-4ae495?style=flat-square&logo=Qiskit&logoColor=black"/></a>
 - Mobile application programming: Android(Kotlin) & iOS(Swift)
-- implementation of 'webRTC' on mobile & dataChannel implementing
+- original 'webRTC' & dataChannel bandwidth improving
 - Very beginning of Machine Learning & Deep Learning (Lecture 'CS231n' from Stanford Univ)
 - Very beginning of Quamtum Computing [Learning Quantum Computer](https://github.com/JoonLee-K/QuantumComputingLearning)
 
