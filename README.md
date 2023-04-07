@@ -11,8 +11,8 @@ Interested in understanding the world using technology to make better world.
 - HCI(Human Computer Interaction)
 
 ### Sub insterest field
-- Quantum Computing
-- Deep learning & compling AI
+- Deep learning using power of Quantum Computing
+- compling AI
 
 ### You can contact me on...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
@@ -27,7 +27,7 @@ Interested in understanding the world using technology to make better world.
 # Experience
 - Team leader in [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ Present
 - Undergraduate Research Student in [HCSLAB@CSU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
-- Member in [NAEK YEHS](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present (Associate Director in Dept of HR)
+- Member in [NAEK YEHS](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present (Associate Director in Dept of HR, 2023)
 
 # Projects
 ###  I'm currently working on...
