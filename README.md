@@ -12,7 +12,6 @@ Interested in understanding the world using technology to make better world.
 
 ### Sub insterest field
 - Deep learning using power of Quantum Computing
-- compling AI
 
 ### You can contact me on...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
