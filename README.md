@@ -21,7 +21,7 @@ Interested in understanding the world using technology to make better world.
 
 # Education
 - Daeryun High School 2017 ~ 2019
-- Majoring Computer Science in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) 2021 ~ Present
+- Majoring Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) 2021 ~ Present
 
 # Experience
 - Team leader in [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ Present
