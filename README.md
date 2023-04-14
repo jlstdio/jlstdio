@@ -26,7 +26,7 @@ Interested in understanding the world using technology to make better world.
 
 # Experience
 - Team leader in [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ Present
-- Undergraduate Research Student in [HCSLAB@CSU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
+- Undergraduate Research Student in [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
 - Member in [NAEK YEHS](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present (Associate Director in Dept of HR, 2023)
 
 # Projects
