@@ -26,8 +26,12 @@ Interested in understanding the world using technology to make better world.
 
 # Experience
 - VAST팀 리더 Team leader in [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ Present
+  - ARA Service Directing & Mobile(iOS|Android) Native Development
 - 학부연구생 Undergraduate Research Student in [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
-- 한국공학한림원 차세대공학리더 Member in [NAEK YEHS](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present (Associate Director in Dept of HR, 2023)
+  - 보건복지부 과제 : TBA
+  - 개인 연구 : TBA
+- 한국공학한림원 차세대공학리더 Member in [NAEK YEHS](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present
+  - Associate Director in Dept of Human Resource (2023)
 
 # Projects
 ###  I'm currently working on...
