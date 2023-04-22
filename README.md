@@ -37,10 +37,10 @@ Interested in understanding the world using technology to make better world.
   - 2023 Associate Director in Dept of Human Resource
 
 # Honors & Awards
-- 2018 수성인재장학생 [수성인재육성장학재단](http://ssef.or.kr/)
-- 2018 무한상상 메이커스 대회 3위 [POSTECH 나노융합기술원](https://nano.or.kr/new2019/index5.php)
-- 2019 KSCY 연구논문 부문 우수 청소년 학자상 [KSCY](https://www.kscy.kr/)
-- 2021 세종스마트메이커톤 2위 [세종혁신센터](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
+- 2018 수성인재장학생 scholarship student at [수성인재육성장학재단](http://ssef.or.kr/)
+- 2018 무한상상 메이커스 대회(Hack-a-thon) 3rd place [POSTECH 나노융합기술원](https://nano.or.kr/new2019/index5.php)
+- 2019 KSCY 연구논문 부문 우수 청소년 학자상(Excellent Youth Scholar Award) [KSCY](https://www.kscy.kr/)
+- 2021 세종스마트메이커톤(Hack-a-thon) 2nd place [세종혁신센터](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
 
 # Projects
 ###  I'm currently working on...
