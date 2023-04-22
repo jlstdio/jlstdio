@@ -32,7 +32,7 @@ Interested in understanding the world using technology to make better world.
   - 개인 연구 : TBA
 
 # Activities
-- 2017 SOSCON(Samsung Open Source Conference) [프로젝트 전시](https://soscon2017.ssdc.kr/exhibition.html) | [기사](http://bit.ly/336FTFc)
+- 2017 SOSCON(Samsung Open Source Conference) project display [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
 - 한국공학한림원 차세대공학리더 Member in [NAEK YEHS](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present
   - 2023 Associate Director in Dept of Human Resource
 
