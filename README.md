@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
 
 # About Me
-### Joon Hee Lee
 
 Interested in understanding the world using technology to make better world.
 
