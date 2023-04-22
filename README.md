@@ -35,7 +35,7 @@ Interested in understanding the world using technology to make better world.
 - 한국공학한림원 차세대공학리더 Member in [NAEK YEHS](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - 2017 SOSCON(Samsung Open Source Conference) [프로젝트 전시](https://soscon2017.ssdc.kr/exhibition.html)
-- 2017 학생연사 [서울혁신센터](https://www.innovationpark.kr/event/%EA%B3%A0%EB%93%B1%EB%A9%94%EC%9D%B4%EC%BB%A4%EC%84%9C%EC%9A%B8%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%ED%8C%B9%EB%9E%A9-%EC%A0%9C-5%ED%9A%8C-%EA%B8%B0%EC%88%A0%EA%B3%B5%EC%9C%A0%ED%9A%8C/)
+- 2017 학생연사 [서울혁신센터](https://m.onoffmix.com/event/108155)
 
 # Honors & Awards
 - 2018 수성인재장학생 [수성인재육성장학재단](http://ssef.or.kr/)
