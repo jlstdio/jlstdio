@@ -25,7 +25,7 @@ Interested in understanding the world using technology to make better world.
 
 # Experience
 - VAST팀 리더 Team leader in [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ Present
-  - ARA Service Directing & Mobile(iOS|Android) Native Development
+  - Directing & Mobile(iOS|Android) Native Development
 - 학부연구생 Undergraduate Research Student in [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
   - 보건복지부 과제 : 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구
   - 개인 연구 : TBA
