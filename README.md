@@ -43,7 +43,6 @@ Interested in understanding the world using technology to make better world.
 - 2021 (Hack-a-thon) 2nd place [세종혁신센터 세종 스마트 메이커톤](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
 
 # Projects
-###  I'm currently working on...
 #### Mainly
 - [ARA](https://tosssync.web.app/) project : Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://www.instagram.com/vast.dev/)
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
@@ -61,7 +60,7 @@ Interested in understanding the world using technology to make better world.
 - exif editor
 - [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
 
-## I'm studying / doing...
+# I'm studying / doing...
 <img src="https://img.shields.io/badge/Python-4ae495?style=flat-square&logo=Python&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Kotlin-4ae495?style=flat-square&logo=Kotlin&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Java-4ae495?style=flat-square&logo=Java&logoColor=black"/></a>
@@ -86,7 +85,7 @@ Interested in understanding the world using technology to make better world.
 - Very beginning of Machine Learning & Deep Learning (Lecture 'CS231n' from Stanford Univ)
 - Very beginning of Quamtum Computing [Learning Quantum Computer](https://github.com/JoonLee-K/QuantumComputingLearning)
 
-## I'm looking forward to study
+# I'm looking forward to study
 - Quantum Computing : more about quantum computing & maybe research about application to AI
 - Compling AI
 
