@@ -27,20 +27,20 @@ Interested in understanding the world using technology to make better world.
 - VAST팀 리더 Team leader in [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ Present
   - ARA Service Directing & Mobile(iOS|Android) Native Development
 - 학부연구생 Undergraduate Research Student in [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
-  - 보건복지부 과제 : TBA
+  - 보건복지부 과제 : 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구
   - 개인 연구 : TBA
 
 # Activities
-- 2017 SOSCON(Samsung Open Source Conference) project display [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
-- 2017 제5회 기술공유회 학생연사 Speaker at [서울혁신센터](https://m.onoffmix.com/event/108155)
-- 한국공학한림원 차세대공학리더 Member in [NAEK YEHS](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present
+- 2017 Project display from [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
+- 2017 연사 Speaker at [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회 
+- Member in [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present
   - 2023 Associate Director in Dept of Human Resource
 
 # Honors & Awards
 - 2018 수성인재장학생 scholarship student at [수성인재육성장학재단](http://ssef.or.kr/)
-- 2018 무한상상 메이커스 대회(Hack-a-thon) 3rd place [POSTECH 나노융합기술원](https://nano.or.kr/new2019/index5.php)
-- 2019 KSCY 연구논문 부문 우수 청소년 학자상(Excellent Youth Scholar Award) [KSCY](https://www.kscy.kr/)
-- 2021 세종스마트메이커톤(Hack-a-thon) 2nd place [세종혁신센터](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
+- 2018 (Hack-a-thon) 3rd place [POSTECH 나노융합기술원 무한상상 메이커스 대회](https://nano.or.kr/new2019/index5.php)
+- 2019 연구논문 부문 우수 청소년 학자상(Excellent Youth Scholar Award) [KSCY](https://www.kscy.kr/)
+- 2021 (Hack-a-thon) 2nd place [세종혁신센터 세종 스마트 메이커톤](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
 
 # Projects
 ###  I'm currently working on...
