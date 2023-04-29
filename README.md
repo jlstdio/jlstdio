@@ -32,7 +32,8 @@ Interested in understanding the world using technology to make better world.
 
 # Activities
 - 2017 Project display from [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
-- 2017 연사 Speaker at [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회 
+- 2017 연사 Speaker at [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회
+- 멘토 Mentor in [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023)
 - Member in [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) 2022 Sep ~ Present
   - 2023 Associate Director in Dept of Human Resource
 
