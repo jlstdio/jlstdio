@@ -63,6 +63,7 @@ Interested in understanding the world using technology to make better world.
 - [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
 
 # I'm studying / doing...
+## Doing
 <img src="https://img.shields.io/badge/Python-4ae495?style=flat-square&logo=Python&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Kotlin-4ae495?style=flat-square&logo=Kotlin&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Java-4ae495?style=flat-square&logo=Java&logoColor=black"/></a>
@@ -78,10 +79,14 @@ Interested in understanding the world using technology to make better world.
 <img src="https://img.shields.io/badge/webRTC-4ae495?style=flat-square&logo=webRTC&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/OpenCV-4ae495?style=flat-square&logo=OpenCV&logoColor=black"/></a>
 
+## Studying
+<img src="https://img.shields.io/badge/Qiskit-4ae495?style=flat-square&logo=Qiskit&logoColor=black"/></a>
+
+<img src="https://img.shields.io/badge/jetpack compose-4ae495?style=flat-square&logo=jetpackcompose&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/KMM-4ae495?style=flat-square&logo=kotlin&logoColor=black"/></a>
+
 <img src="https://img.shields.io/badge/DeepLearning-4ae495?style=flat-square&logo=OpenAI&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/MachineLearning-4ae495?style=flat-square&logo=OpenAI&logoColor=black"/></a>
-
-<img src="https://img.shields.io/badge/Qiskit-4ae495?style=flat-square&logo=Qiskit&logoColor=black"/></a>
 - Mobile application programming: Android(Kotlin) & iOS(Swift)
 - original 'webRTC' & dataChannel bandwidth improving
 - Very beginning of Machine Learning & Deep Learning (Lecture 'CS231n' from Stanford Univ)
