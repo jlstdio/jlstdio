@@ -44,7 +44,7 @@ Interested in understanding the world using technology to make better world.
 - 2019 연구논문 부문 우수 청소년 학자상(Excellent Youth Scholar Award) [KSCY](https://www.kscy.kr/)
 - 2021 (Hack-a-thon) 2nd place [세종혁신센터 세종 스마트 메이커톤](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
 
-# Projects
+# Side Projects
 #### Mainly
 - [ARA](https://tosssync.web.app/) project : Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://www.instagram.com/vast.dev/)
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
@@ -58,7 +58,7 @@ Interested in understanding the world using technology to make better world.
 - [New Sense-Finished](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding (2018)
 - [WAG-Stopped](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
 
-#### mini, sidey projects
+#### mini projects
 - exif editor
 - [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
 
@@ -87,10 +87,10 @@ Interested in understanding the world using technology to make better world.
 
 <img src="https://img.shields.io/badge/DeepLearning-4ae495?style=flat-square&logo=OpenAI&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/MachineLearning-4ae495?style=flat-square&logo=OpenAI&logoColor=black"/></a>
-- Mobile application programming: Android(Kotlin) & iOS(Swift)
 - original 'webRTC' & dataChannel bandwidth improving
 - Very beginning of Machine Learning & Deep Learning (Lecture 'CS231n' from Stanford Univ)
 - Very beginning of Quamtum Computing [Learning Quantum Computer](https://github.com/JoonLee-K/QuantumComputingLearning)
+- RFID backsacttering
 
 # I'm looking forward to study
 - Quantum Computing : more about quantum computing & maybe research about application to AI
