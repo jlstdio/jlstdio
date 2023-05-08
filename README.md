@@ -37,7 +37,7 @@ Interested in understanding the world using technology to make better world.
 - Member in [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member in [GDSC Hongik](https://gdsc.community.dev/hongik-university/) Mar. 2023 ~ Present
-  - 연사 Speaker in GDSC Hongik 8th Dev Seminar [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
+  - 연사 Speaker in GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
 
 # Honors & Awards
 - 2018 수성인재장학생 scholarship student at [수성인재육성장학재단](http://ssef.or.kr/)
