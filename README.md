@@ -72,6 +72,9 @@ Interested in understanding the world using technology to make better world.
 <img src="https://img.shields.io/badge/C-4ae495?style=flat-square&logo=C&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C++-4ae495?style=flat-square&logo=Cplusplus&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C_Sharp-4ae495?style=flat-square&logo=CSharp&logoColor=black"/></a>
+|
+<img src="https://img.shields.io/badge/LISP-4ae495?style=flat-square&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Prolog-4ae495?style=flat-square&logoColor=black"/></a>
 
 <img src="https://img.shields.io/badge/Android-4ae495?style=flat-square&logo=Android&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/iOS-4ae495?style=flat-square&logo=Apple&logoColor=black"/></a>
