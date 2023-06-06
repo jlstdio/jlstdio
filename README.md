@@ -47,6 +47,8 @@ Interested in understanding the world using technology to make better world.
 
 # Side Projects
 #### Mainly
+- [RFID reader & RF signal phase tracking]() : Project to understand protocol of RFID & phase changes in RF(Radio Frequency) caused by environmental factor.
+  - currently making a mock-up of [OpenSource RFID Reader](https://ieeexplore.ieee.org/document/9982299)
 - [ARA](https://tosssync.web.app/) project : Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://www.instagram.com/vast.dev/)
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
 
