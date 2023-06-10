@@ -30,6 +30,8 @@ Interested in understanding the world using technology to make better world.
 - 학부연구생 Undergraduate Research Student in [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
   - 보건복지부 과제 / Project in Ministry of Health and Welfare : 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
   - 개인 연구 : TBA
+  - [RFID reader & RF signal phase tracking](https://github.com/JoonLee-K/SDR_UHF_RFID_reader) : Understanding protocol of RFID & phase changes in RF(Radio Frequency) caused by environmental factor. (Mar, 2023~)
+    - currently making a mock-up of [OpenSource RFID Reader](https://ieeexplore.ieee.org/document/9982299)
 
 # 🎙️ Activities
 - 2017 Project display from [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
@@ -48,8 +50,6 @@ Interested in understanding the world using technology to make better world.
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
-- [RFID reader & RF signal phase tracking](https://github.com/JoonLee-K/SDR_UHF_RFID_reader) : Understanding protocol of RFID & phase changes in RF(Radio Frequency) caused by environmental factor. (Mar, 2023~)
-  - currently making a mock-up of [OpenSource RFID Reader](https://ieeexplore.ieee.org/document/9982299)
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
 
 #### 1️⃣ Coming up | Considering
