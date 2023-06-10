@@ -68,7 +68,7 @@ Interested in understanding the world using technology to make better world.
 - [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
 
 # 📖 I'm studying / doing...
-## 📎 Doing
+## 📎 Capable of
 <img src="https://img.shields.io/badge/Python-4ae495?style=flat-square&logo=Python&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Kotlin-4ae495?style=flat-square&logo=Kotlin&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Java-4ae495?style=flat-square&logo=Java&logoColor=black"/></a>
@@ -100,7 +100,7 @@ Interested in understanding the world using technology to make better world.
 - Very beginning of Quamtum Computing [Learning Quantum Computer](https://github.com/JoonLee-K/QuantumComputingLearning)
 - RFID backsacttering
 
-# 📎 I'm looking forward to study
+# 📎 Looking forward to
 - Quantum Computing : more about quantum computing & maybe research about application to AI
 - Compling AI
 
