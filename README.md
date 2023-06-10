@@ -48,7 +48,7 @@ Interested in understanding the world using technology to make better world.
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
-- [RFID reader & RF signal phase tracking]() : Understanding protocol of RFID & phase changes in RF(Radio Frequency) caused by environmental factor. (Mar, 2023~)
+- [RFID reader & RF signal phase tracking](https://github.com/JoonLee-K/SDR_UHF_RFID_reader) : Understanding protocol of RFID & phase changes in RF(Radio Frequency) caused by environmental factor. (Mar, 2023~)
   - currently making a mock-up of [OpenSource RFID Reader](https://ieeexplore.ieee.org/document/9982299)
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
 
