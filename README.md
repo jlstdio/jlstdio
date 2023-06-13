@@ -41,8 +41,8 @@ Interested in understanding the world using technology to make better world.
   - 연사 Speaker in GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
 
 # 🥸 Self Development
-- [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information) - Coursera
-- [양자 컴퓨팅 및 정보의 기초 | Quantum Computing and Fundamental of Information]() - SUNON : the Seoul National Univ online learning service.
+- [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information) Jun. 2023
+- [양자 컴퓨팅 및 정보의 기초 | Quantum Computing and Fundamental of Information]() Jun ~ Aug. 2023
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
