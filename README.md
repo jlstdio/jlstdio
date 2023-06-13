@@ -14,7 +14,7 @@ Interested in understanding the world using technology to make better world.
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/IOT-4ae495?style=flat-square&logoColor=black"/></a>
 
-<img src="https://img.shields.io/badge/ML-4ae495?style=flat-square&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/ML DL-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/QuantumComputing-4ae495?style=flat-square&logoColor=black"/></a>
 
 ### 📮 You can contact me on...
