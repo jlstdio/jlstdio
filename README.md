@@ -6,10 +6,8 @@ Interested in understanding the world using technology to make better world.
 
 기술을 통해 세상을 더 잘 이해하여 우리의 삶에 긍정적인 기여를 하는 것에 관심이 있습니다.
 
-### Main interest field
+### Interest field
 - HCI(Human Computer Interaction)
-
-### Sub insterest field
 - Deep learning using power of Quantum Computing
 
 ### 📮 You can contact me on...
@@ -42,11 +40,9 @@ Interested in understanding the world using technology to make better world.
 - Open Community Member in [GDSC Hongik](https://gdsc.community.dev/hongik-university/) Mar. 2023 ~ Present
   - 연사 Speaker in GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
 
-# 🏆 Honors & Awards
-- 2018 수성인재장학생 scholarship student at [수성인재육성장학재단](http://ssef.or.kr/)
-- 2018 (Hack-a-thon) 3rd place [POSTECH 나노융합기술원 무한상상 메이커스 대회](https://nano.or.kr/new2019/index5.php)
-- 2019 연구논문 부문 우수 청소년 학자상(Excellent Youth Scholar Award) [KSCY](https://www.kscy.kr/)
-- 2021 (Hack-a-thon) 2nd place [세종혁신센터 세종 스마트 메이커톤](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
+# 🥸 Self Development
+- [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information) - Coursera
+- [양자 컴퓨팅 및 정보의 기초 | Quantum Computing and Fundamental of Information]() - SUNON : the Seoul National Univ online learning service.
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
@@ -66,6 +62,12 @@ Interested in understanding the world using technology to make better world.
 #### 3️⃣ mini projects
 - exif editor
 - [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
+
+# 🏆 Honors & Awards
+- 2018 수성인재장학생 scholarship student at [수성인재육성장학재단](http://ssef.or.kr/)
+- 2018 (Hack-a-thon) 3rd place [POSTECH 나노융합기술원 무한상상 메이커스 대회](https://nano.or.kr/new2019/index5.php)
+- 2019 연구논문 부문 우수 청소년 학자상(Excellent Youth Scholar Award) [KSCY](https://www.kscy.kr/)
+- 2021 (Hack-a-thon) 2nd place [세종혁신센터 세종 스마트 메이커톤](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
 
 # 📖 I'm studying / doing...
 ## 📎 Capable of
