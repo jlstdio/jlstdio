@@ -67,8 +67,7 @@ Interested in understanding the world using technology to make better world.
 - [WAG-Stopped](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
 
 #### 3️⃣ mini projects
-- exif editor
-- [CTRS](https://github.com/JoonLee-K/CTRS) project : System to alert driver on the road that emergencyVH is coming behind them so driver can avoid, making a better smooth path for emergencyVH.
+TBA
 
 # 🏆 Honors & Awards
 - 2018 수성인재장학생 scholarship student at [수성인재육성장학재단](http://ssef.or.kr/)
