@@ -39,17 +39,20 @@ Interested in understanding the world using technology to make better world.
     - currently making a mock-up of [OpenSource RFID Reader](https://ieeexplore.ieee.org/document/9982299)
 
 # 🎙️ Activities
-- 2017 Project display from [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
-- 2017 연사 Speaker at [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회
-- 멘토 Mentor in [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023)
+- Development Member in [P.EYE](https://readymag.com/u1427907511/peye/) Jul, 2023 ~
 - Member in [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member in [GDSC Hongik](https://gdsc.community.dev/hongik-university/) Mar. 2023 ~ Present
   - 연사 Speaker in GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
+- 멘토 Mentor in [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
+- 2017 Project display from [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
+- 2017 연사 Speaker at [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회
 
 # 🥸 Self Development
-- [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information) Jun. 2023
-- [양자 컴퓨팅 및 정보의 기초 | Quantum Computing and Fundamental of Information]() Jun ~ Aug. 2023
+- [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information) Jun. 2023 ~
+- [양자 컴퓨팅 및 정보의 기초 | Quantum Computing and Fundamental of Information]() Jun.2023 ~
+- CS231n Jul. 2023 ~
+- [AR study](https://github.com/JoonLee-K/AR-tag) Jul. 2023 ~
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
