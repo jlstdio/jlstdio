@@ -49,10 +49,10 @@ Interested in understanding the world using technology to make better world.
 - 2017 연사 Speaker at [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회
 
 # 🥸 Self Development
-- [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information) Jun. 2023 ~
-- [양자 컴퓨팅 및 정보의 기초 | Quantum Computing and Fundamental of Information]() Jun.2023 ~
-- CS231n Jul. 2023 ~
-- [AR study](https://github.com/JoonLee-K/AR-tag) Jul. 2023 ~
+- [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information)
+- [양자 컴퓨팅 및 정보의 기초 | Quantum Computing and Fundamental of Information]()
+- CS231n
+- [AR study](https://github.com/JoonLee-K/AR-tag)
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
