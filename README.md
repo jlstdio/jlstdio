@@ -114,8 +114,3 @@ TBA
 # 📎 Looking forward to
 - Quantum Computing : more about quantum computing & maybe research about application to AI
 - Compling AI
-
-## 🗂️ Decoration
-[![github stats](https://github-readme-stats.vercel.app/api?username=JoonLee-K&show_icons=true)](https://github.com/JoonLee-K/)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=JoonLee-K)
