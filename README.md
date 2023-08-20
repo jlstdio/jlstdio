@@ -39,7 +39,7 @@ Interested in understanding the world using technology to make better world.
     - currently making a mock-up of [OpenSource RFID Reader](https://ieeexplore.ieee.org/document/9982299)
 
 # 🎙️ Activities
-- Development Member in [P.EYE](https://readymag.com/u1427907511/peye/) Jul, 2023 ~ Aug, 2023
+- Development Member in [P.EYE](https://readymag.com/u1427907511/peye/) 2023
 - Member in [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member in [GDSC Hongik](https://gdsc.community.dev/hongik-university/) Mar. 2023 ~ Present
