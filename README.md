@@ -60,19 +60,12 @@ I am interested in understanding the world using technology to make better world
 #### 0️⃣ Mainly
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
 
-#### 1️⃣ Coming up | Considering
-- Jarvis project : Project to make voice assisted product with Chat GPT. following project of [RE](https://github.com/JoonLee-K/Re).
-- Managment system project : Impoving intra-network data processing & managment system in Dept of HR in YEHS.
-
 #### 2️⃣ Postponed | Stopped | finished
 - [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
 - [RE](https://github.com/JoonLee-K/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
 - [mobile 한글시계-Maintaining](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
 - [New Sense-Finished](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding (2018)
 - [WAG-Stopped](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
-
-#### 3️⃣ mini projects
-TBA
 
 # 🏆 Honors & Awards
 - 2018 수성인재장학생 scholarship student at [수성인재육성장학재단](http://ssef.or.kr/)
