@@ -2,12 +2,14 @@
 
 # 😎 About Me
 
-Interested in understanding the world using technology to make better world.
+I am interested in understanding the world using technology to make better world.
 
 기술을 통해 세상을 더 잘 이해하여 우리의 삶에 긍정적인 기여를 하는 것에 관심이 있습니다.
 
 ### Interest field
-- HCI(Human Computer Interaction)
+- HCI (especially human context analysis)
+- Light Weight Architecture AI Model
+- Edge | Mobile AI model
 - Deep learning using power of Quantum Computing
 
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
@@ -51,7 +53,7 @@ Interested in understanding the world using technology to make better world.
 # 🥸 Self Development
 - [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information)
 - [양자 컴퓨팅 및 정보의 기초 | Quantum Computing and Fundamental of Information]()
-- CS231n
+- CS231n | CS224n
 - [AR study](https://github.com/JoonLee-K/AR-tag)
 
 # 🧩 Side Projects
