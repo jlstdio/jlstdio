@@ -35,7 +35,7 @@ I am interested in understanding the world using technology to make better world
   - Mobile(iOS | Android) Native Development
   - ML/DL Development
   - [ARA](https://tosssync.web.app/) project: Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://www.instagram.com/vast.dev/)
-  - [Mogak]() project: place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
+  - [Mogak](https://mogak.site) project: place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
 - 학부연구생 Undergraduate Research Student in [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
   - 보건복지부 과제 / Project in Ministry of Health and Welfare : 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
   - 개인 연구 : TBA
