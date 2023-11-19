@@ -60,9 +60,10 @@ I am interested in understanding the world using technology to make better world
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
-- [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
+- [VKDM](https://github.com/JoonLee-K/VKDM) : Vibration-based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 95% of the accuracy was achieved.
 
 #### 2️⃣ Postponed | Stopped | finished
+- [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
 - [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
 - [RE](https://github.com/JoonLee-K/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
 - [mobile 한글시계-Maintaining](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
