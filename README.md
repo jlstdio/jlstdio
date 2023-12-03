@@ -32,15 +32,18 @@ I am interested in understanding the world using technology to make better world
 
 # 🔬 Experience
 - VAST팀 리더 Team leader @ [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ Present - [website](https://araconnect.site)
-  - Mobile(iOS | Android) Native Development
-  - ML/DL Development
-  - [ARA](https://tosssync.web.app/) project: Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://www.instagram.com/vast.dev/)
-  - [Mogak](https://mogak.site) project: place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
+  - [ARA](https://tosssync.web.app/) project
+    - Mobile(iOS | Android) Native Development
+    - Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://www.instagram.com/vast.dev/)
+  - [Mogak](https://mogak.site) project
+    - ML/DL Development
+    - place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
 - 학부연구생 Undergraduate Research Student @ [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
-  - 보건복지부 과제 / Project in Ministry of Health and Welfare : 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
-  - 개인 연구 : TBA
-  - [RFID reader & RF signal phase tracking](https://github.com/JoonLee-K/SDR_UHF_RFID_reader) : Understanding protocol of RFID & phase changes in RF(Radio Frequency) caused by environmental factor. (Mar, 2023~)
-    - currently making a mock-up of [OpenSource RFID Reader](https://ieeexplore.ieee.org/document/9982299)
+  - Signal processing, AI Model research, and HW making
+  - 보건복지부 과제 / Project in Ministry of Health and Welfare: 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
+    - [RFID reader & RF signal phase tracking](https://github.com/JoonLee-K/SDR_UHF_RFID_reader): Understanding protocol of RFID & phase changes in RF(Radio Frequency) caused by environmental factor. (Mar, 2023~)
+  - 개인 연구: TBA
+    - TBA
 
 # 🎙️ Activities
 - VR software developer @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023
@@ -50,8 +53,8 @@ I am interested in understanding the world using technology to make better world
   - Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
   - Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
 - 멘토 Mentor @ [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
-- 2017 Project display @ [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
-- 2017 연사 Speaker @ [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회
+- Project display @ [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) 2017 - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
+- Speaker @ [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회 2017
 
 # 🥸 Self Development
 - [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information)
