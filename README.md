@@ -61,7 +61,7 @@ I am interested in understanding the world using technology to make better world
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
-- [VKDM](https://github.com/JoonLee-K/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
+- [SKDM](https://github.com/JoonLee-K/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
 
 #### 2️⃣ Postponed | Stopped | finished
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
