@@ -47,7 +47,8 @@ I am interested in understanding the world using technology to make better world
 - Member in [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member in [GDSC Hongik](https://gdsc.community.dev/hongik-university/) Mar. 2023 ~ Present
-  - 연사 Speaker in GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
+  - Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
+  - Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
 - 멘토 Mentor in [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
 - 2017 Project display from [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
 - 2017 연사 Speaker at [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회
