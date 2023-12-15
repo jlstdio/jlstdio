@@ -46,15 +46,20 @@ I am interested in understanding the world using technology to make better world
     - TBA
 
 # 🎙️ Activities
+- developer @ [A2S(AI to Service)](https://modulabs.co.kr/product/lab-13776-2023-10-08-105817/)
+  - AI model development, LLM to curation of place & analysis.
 - VR software developer @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023
+  - Unity, interaction using hand recognition development.
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/) Mar. 2023 ~ Present
   - Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
   - Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
 - 멘토 Mentor @ [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
-- Project display @ [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) 2017 - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
+- Project display @ [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) 2017
+  - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
 - Speaker @ [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회 2017
+  - introduction of WAG project and technology used.
 
 # 🥸 Self Development
 - [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information)
@@ -64,9 +69,10 @@ I am interested in understanding the world using technology to make better world
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
-- [SKDM](https://github.com/JoonLee-K/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
+- [HomemadeNN](https://github.com/JoonLee-K/HomemadeNN) : Making Neural Net only using Numpy & Pandas.
 
 #### 2️⃣ Postponed | Stopped | finished
+- [SKDM](https://github.com/JoonLee-K/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
 - [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
 - [RE](https://github.com/JoonLee-K/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
