@@ -7,9 +7,9 @@ I am interested in understanding the world using technology to make better world
 기술을 통해 세상을 더 잘 이해하여 우리의 삶에 긍정적인 기여를 하는 것에 관심이 있습니다.
 
 ### Interest field
-- mainly : ***Spacial Computing***(ex: SLAM)
+- ***Spacial Computing***
 - HCI (general sensing for human context understanding)
-- Deep learning using power of Quantum Computing
+- Deep learning using the power of Quantum Computing
 
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
@@ -70,7 +70,7 @@ I am interested in understanding the world using technology to make better world
 #### 0️⃣ Mainly
 - [HomemadeNN](https://github.com/JoonLee-K/HomemadeNN) : Making Neural Net only using Numpy & Pandas.
 
-#### 2️⃣ Postponed | Stopped | finished
+#### 2️⃣ Finished
 - [SKDM](https://github.com/JoonLee-K/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
 - [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
 - [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
