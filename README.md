@@ -30,23 +30,22 @@ I am interested in understanding the world using technology to make better world
 - 홍익대학교 컴퓨터공학과 Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) 2021 ~ Present
 
 # 🔬 Experience
-- VAST팀 리더 Team leader @ [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ Present - [website](https://araconnect.site)
+- VAST팀 리더 Team leader @ [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ 2023 Aug - [website](https://araconnect.site)
   - [ARA](https://tosssync.web.app/) project
     - Mobile(iOS | Android) Native Development
-    - Project to make service that enables data transfer without OS barrier (Dec, 2020~) [Organization](https://www.instagram.com/vast.dev/)
+    - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
   - [Mogak](https://mogak.site) project
     - ML/DL Development
     - place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
 - 학부연구생 Undergraduate Research Student @ [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
-  - Signal processing, AI Model research, and HW making
+  - AI Modeling, Signal processing, and HW(3D modeling, Eagle CAD)
   - 보건복지부 과제 / Project in Ministry of Health and Welfare: 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
-    - [RFID reader & RF signal phase tracking](https://github.com/JoonLee-K/SDR_UHF_RFID_reader): Understanding protocol of RFID & phase changes in RF(Radio Frequency) caused by environmental factor. (Mar, 2023~)
-  - 개인 연구: TBA
-    - TBA
+    - RFID reader & RF signal phase tracking for detect human behavior | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
+    - Low-price & High-quality stethoscope & SCG measurement using smartphone with deep learning
 
 # 🎙️ Activities
 - developer @ [A2S(AI to Service)](https://modulabs.co.kr/product/lab-13776-2023-10-08-105817/)
-  - AI model development, LLM to curation of place & analysis.
+  - AI modeling, LLM to curation of place & analysis.
 - VR software developer @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023
   - Unity, interaction using hand recognition development.
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) Sep. 2022 ~ Present
@@ -54,17 +53,16 @@ I am interested in understanding the world using technology to make better world
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/) Mar. 2023 ~ Present
   - Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
   - Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
-- 멘토 Mentor @ [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
+- Mentor @ [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
 - Project display @ [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) 2017
   - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
 - Speaker @ [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회 2017
-  - introduction of WAG project and technology used.
+  - introduction of my side project and the technology used.
 
 # 🥸 Self Development
 - [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information)
 - [양자 컴퓨팅 및 정보의 기초 | Quantum Computing and Fundamental of Information]()
 - CS231n | CS224n
-- [AR study](https://github.com/JoonLee-K/AR-tag)
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
