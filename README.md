@@ -30,7 +30,7 @@ I am interested in understanding the world using technology to make better world
 - 홍익대학교 컴퓨터공학과 Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) 2021 ~ Present
 
 # 🔬 Experience
-- 학부연구생 Undergraduate Research Student @ [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
+- 학부연구생 Undergraduate Research Student @ [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ 2024 Feb
   - AI Modeling, Signal processing, and HW(3D modeling, Eagle CAD)
   - 보건복지부 과제 / Project in Ministry of Health and Welfare: 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
     - RFID reader & RF signal phase tracking for detect human behavior | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
