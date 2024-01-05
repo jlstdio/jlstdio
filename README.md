@@ -9,7 +9,6 @@ I am interested in understanding the world using technology to make better world
 ### Interest field
 - ***Spacial Computing***
 - HCI (general sensing for human context understanding)
-- Deep learning using the power of Quantum Computing
 
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
@@ -46,8 +45,6 @@ I am interested in understanding the world using technology to make better world
     - place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
       
 # 🎙️ Activities
-- developer @ [A2S(AI to Service)](https://modulabs.co.kr/product/lab-13776-2023-10-08-105817/)
-  - AI modeling, LLM to curation of place & analysis.
 - Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
 - VR software developer @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023
   - Unity, interaction using hand recognition development.
