@@ -2,9 +2,7 @@
 
 # 😎 About Me
 
-I am interested in understanding the world using technology to make better world.
-
-기술을 통해 세상을 더 잘 이해하여 우리의 삶에 긍정적인 기여를 하는 것에 관심이 있습니다.
+Interested in understanding the world using technology to make a better world.
 
 ### Interest field
 - ***Spacial Computing***
