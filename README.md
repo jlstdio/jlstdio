@@ -42,13 +42,16 @@ Interested in understanding the world using technology to make a better world.
     - place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
       
 # 🎙️ Activities
-- Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
-- VR software developer @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023
-  - Unity, interaction using hand recognition development.
+- VR software developer @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023. Jul ~ Present
+  - Interaction development & Localization
+  - 2024 Software development team leader
 - Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
+
+  
+- Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
 - Mentor @ [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
 - Project display @ [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) 2017
   - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
