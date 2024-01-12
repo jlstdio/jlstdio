@@ -3,6 +3,8 @@
 # 😎 About Me
 Interested in understanding the world using technology to make a better world.
 
+Curriculum Vitae : [CV](https://github.com/jlstdio/jlstdio/files/13910733/CV.-.Jan.2024.pdf)
+
 ### Interest field
 - ***Spacial Computing***
 - HCI (general sensing for human context understanding)
