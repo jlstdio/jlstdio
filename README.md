@@ -3,7 +3,8 @@
 # 😎 About Me
 Interested in understanding the world using technology to make a better world.
 
-Curriculum Vitae : [CV](https://github.com/jlstdio/jlstdio/files/13910733/CV.-.Jan.2024.pdf)
+Curriculum Vitae : [CV - Jan 24, 2024](https://github.com/jlstdio/jlstdio/files/14032025/CV.-.Jan.2024.pdf)
+
 
 ### Interest field
 - ***Spacial Computing***
@@ -83,6 +84,7 @@ Curriculum Vitae : [CV](https://github.com/jlstdio/jlstdio/files/13910733/CV.-.J
 - 2018 (Hack-a-thon) 3rd place [POSTECH 나노융합기술원 무한상상 메이커스 대회](https://nano.or.kr/new2019/index5.php)
 - 2019 연구논문 부문 우수 청소년 학자상(Excellent Youth Scholar Award) [KSCY](https://www.kscy.kr/)
 - 2021 (Hack-a-thon) 2nd place [세종혁신센터 세종 스마트 메이커톤](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
+- 2024 (Hack-a-thon) 1st place [KU-Cambridge Campus Sharing Economy MAKEathon](https://slp.korea.ac.kr/slp/makeathon/Who.do)
 
 # 📖 I'm studying / doing...
 ## 📎 Capable of
