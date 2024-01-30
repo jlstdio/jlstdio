@@ -29,14 +29,14 @@ Curriculum Vitae : [CV - Jan 24, 2024](https://github.com/jlstdio/jlstdio/files/
 - 홍익대학교 컴퓨터공학과 Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) 2021 ~ Present
 
 # 🔬 Experience
-- 학부연구생 Undergraduate Research Student @ [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ 2024 Feb
+- Undergraduate Research Student @ [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ 2024 Feb
   - AI Modeling, Signal processing, and HW(3D modeling, Eagle CAD)
   - 보건복지부 과제 / Project in Ministry of Health and Welfare: 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
     - RFID reader & RF signal phase tracking for detect human behavior | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
     - Low-price & High-quality stethoscope & SCG measurement using smartphone with deep learning
 
 
-- VAST팀 리더 Team leader @ [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ 2023 Aug - [website](https://araconnect.site)
+- Founder & Mobile lead @ [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ 2023 Aug - [website](https://araconnect.site)
   - [ARA](https://tosssync.web.app/) project
     - Mobile(iOS | Android) Native Development
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
@@ -48,7 +48,7 @@ Curriculum Vitae : [CV - Jan 24, 2024](https://github.com/jlstdio/jlstdio/files/
 - VR software developer @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023. Jul ~ Present
   - Interaction development & indoor 3d position localization
   - 2024 Software development team leader
-- Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) Sep. 2022 ~ Present
+- Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
 
