@@ -48,7 +48,6 @@ Curriculum Vitae : [CV - Jan 24, 2024](https://github.com/jlstdio/jlstdio/files/
 - VR software developer @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023. Jul ~ Present
   - Interaction development & indoor 3d position localization
   - 2024 Software development team leader
-- 2024 AI development & Team lead @ Google Soulution Challenge 2024 (Hongik Univ Team 6)
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
