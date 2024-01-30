@@ -7,8 +7,8 @@ Curriculum Vitae : [CV - Jan 24, 2024](https://github.com/jlstdio/jlstdio/files/
 
 
 ### Interest field
-- ***Spacial Computing***
 - HCI (general sensing for human context understanding)
+- Spacial Computing
 
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
@@ -46,20 +46,21 @@ Curriculum Vitae : [CV - Jan 24, 2024](https://github.com/jlstdio/jlstdio/files/
       
 # 🎙️ Activities
 - VR software developer @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023. Jul ~ Present
-  - Interaction development & Localization
+  - Interaction development & indoor 3d position localization
   - 2024 Software development team leader
-- Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
+- 2024 AI development & Team lead @ Google Soulution Challenge 2024 (Hongik Univ Team 6)
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/main/main.php) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
 
-  
+- Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
 - Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
 - Mentor @ [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
 - Project display @ [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) 2017
   - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
+  - Presenting WAG project
 - Speaker @ [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회 2017
-  - introduction of my side project and the technology used.
+  - Introduction to opensource technology in UAV system & modeling light weight frame on various materials
 
 # 🥸 Self Development
 - [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information)
