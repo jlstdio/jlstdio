@@ -34,6 +34,7 @@ Curriculum Vitae : [CV - Jan 24, 2024](https://github.com/jlstdio/jlstdio/files/
   - 보건복지부 과제 / Project in Ministry of Health and Welfare: 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
     - RFID reader & RF signal phase tracking for detect human behavior | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
     - Low-price & High-quality stethoscope & SCG measurement using smartphone with deep learning
+    - Health data collecting device research & development
 
 
 - Founder & Mobile lead @ [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ 2023 Aug - [website](https://araconnect.site)
