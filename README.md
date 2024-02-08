@@ -3,7 +3,7 @@
 # 😎 About Me
 Interested in understanding the world using technology to make a better world.
 
-Curriculum Vitae : [CV - Jan 24, 2024](https://github.com/jlstdio/jlstdio/files/14032025/CV.-.Jan.2024.pdf)
+Curriculum Vitae : [CV - Feb 2024.pdf](https://github.com/jlstdio/jlstdio/files/14204008/CV.-.Feb.2024.pdf)
 
 
 ### Interest field
@@ -29,7 +29,9 @@ Curriculum Vitae : [CV - Jan 24, 2024](https://github.com/jlstdio/jlstdio/files/
 - 홍익대학교 컴퓨터공학과 Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) 2021 ~ Present
 
 # 🔬 Experience
-- Undergraduate Research Student @ [HCSLAB@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ 2024 Feb
+- Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) 2024 Feb ~ Present
+  - TBA
+- Undergraduate Intern @ [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ 2024 Feb
   - AI Modeling, Signal processing, and HW(3D modeling, Eagle CAD)
   - 보건복지부 과제 / Project in Ministry of Health and Welfare: 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
     - RFID reader & RF signal phase tracking for detect human behavior | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
