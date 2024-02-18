@@ -54,7 +54,8 @@ Curriculum Vitae : [CV - Feb 2024.pdf](https://github.com/jlstdio/jlstdio/files/
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
-
+ 
+# 📎 ETCs
 - Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
 - Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
 - Mentor @ [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
