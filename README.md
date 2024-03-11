@@ -3,12 +3,14 @@
 # 😎 About Me
 Interested in understanding the world using technology to make a better world.
 
-Curriculum Vitae : [CV - Feb 2024.pdf](https://github.com/jlstdio/jlstdio/files/14204008/CV.-.Feb.2024.pdf)
+Curriculum Vitae : [CV - Mar 2024.pdf](https://github.com/jlstdio/jlstdio/files/14555639/CV.-.Mar.2024.pdf)
 
 
 ### Interest field
-- HCI (general sensing for human context understanding)
-- Spacial Computing
+- HCI
+  - Embedded sensor-based ML
+  - human context understanding
+- Federated Learning
 
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
@@ -30,7 +32,8 @@ Curriculum Vitae : [CV - Feb 2024.pdf](https://github.com/jlstdio/jlstdio/files/
 
 # 🔬 Experience
 - Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) 2024 Feb ~ Present
-  - TBA
+  - A Study on Artificial Intelligence Using Embedded Sensors and Computing Power. Especially human context-aware.
+  - Embedded sensor-based ML
 - Undergraduate Intern @ [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ 2024 Feb
   - AI Modeling, Signal processing, and HW(3D modeling, Eagle CAD)
   - 보건복지부 과제 / Project in Ministry of Health and Welfare: 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
