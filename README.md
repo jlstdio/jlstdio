@@ -1,16 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
 
 # 😎 About Me
-Interested in understanding the world using technology to make a better world.
+Interested in bringing AI capabilities to embedded / edge device
 
 Curriculum Vitae : [CV - Mar 2024.pdf](https://github.com/jlstdio/jlstdio/files/14555639/CV.-.Mar.2024.pdf)
 
 
 ### Interest field
-- HCI
-  - Embedded sensor-based ML
-  - human context understanding
-- Federated Learning
+- HCI (Human-Computer Interaction)
+    - General sensing for human context understanding | IOT
+- Edge device AI
+    - FL(Federated Learning)
+    - TBA
 
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
