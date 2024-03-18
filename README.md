@@ -8,9 +8,10 @@ Curriculum Vitae : [CV - Mar 2024.pdf](https://github.com/jlstdio/jlstdio/files/
 
 ### Interest field
 - HCI (Human-Computer Interaction)
-    - General sensing for human context understanding | IOT
+    - Healthcare AI on device
+    - Contextual sensing using sensor data
+    - IoT
 - Edge device AI
-    - FL(Federated Learning)
     - TBA
 
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
