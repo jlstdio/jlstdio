@@ -77,16 +77,17 @@ Curriculum Vitae : [CV - Mar 2024.pdf](https://github.com/jlstdio/jlstdio/files/
 
 # 🧩 Side Projects
 #### 0️⃣ Mainly
-- [HomemadeNN](https://github.com/JoonLee-K/HomemadeNN) : Making Neural Net only using Numpy & Pandas.
+- [Dum-E](https://github.com/jlstdio/DUM-E) : A small AI robotics project. LLM Reasoning, performing the task by robot arm.
+- [HomemadeNN](https://github.com/jlstdio/HomemadeNN) : Making Neural Net only using Numpy & Pandas.
 
 #### 2️⃣ Finished
-- [SKDM](https://github.com/JoonLee-K/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
-- [LNDT-Private Repo](https://github.com/JoonLee-K/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
+- [SKDM](https://github.com/jlstdio/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
+- [LNDT-Private Repo](https://github.com/jlstdio/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
 - [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
-- [RE](https://github.com/JoonLee-K/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
+- [RE](https://github.com/jlstdio/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
 - [mobile 한글시계-Maintaining](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
-- [New Sense-Finished](https://github.com/JoonLee-K/NewSense) : Obstacle warning item for safe bike riding (2018)
-- [WAG-Stopped](https://github.com/JoonLee-K/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
+- [New Sense-Finished](https://github.com/jlstdio/NewSense) : Obstacle warning item for safe bike riding (2018)
+- [WAG-Stopped](https://github.com/jlstdio/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
 
 # 🏆 Honors & Awards
 - 2018 수성인재장학생 scholarship student at [수성인재육성장학재단](http://ssef.or.kr/)
