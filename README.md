@@ -1,9 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
 
 # 😎 About Me
-Interested in bringing AI capabilities to embedded / edge device
+As a student researcher at Yonsei University and Chung-Ang University, I am passionate about bringing powerful and responsible intelligence to edge devices.
 
-Curriculum Vitae : [CV - Mar 2024.pdf](https://github.com/jlstdio/jlstdio/files/14555639/CV.-.Mar.2024.pdf)
+I have been involved in various projects related to AI, HCI(human-computer interaction), healthcare , and IoT, using embedded sensors, computing power, and deep learning models.
+
+My research interest is..
+- Model Debiasing
+ - LM debiasing
+ - FL(Federated Learning) debiasing
+- HCI (Human-Computer Interaction)
+ - Extracting pioneering insights from the sensor data
+
+I enjoy exchanging ideas and collaborating with other engineers and researchers to create innovative solutions for real-world problems.
+
+Curriculum Vitae : [CV - May 2024.pdf](https://github.com/jlstdio/jlstdio/files/15229405/CV.-.May.2024.pdf)
+
 
 
 ### Interest field
@@ -130,5 +142,5 @@ Curriculum Vitae : [CV - Mar 2024.pdf](https://github.com/jlstdio/jlstdio/files/
 - RFID backsacttering
 
 # 📎 Looking forward to
-- Quantum Computing : more about quantum computing & maybe research about application to AI
+- Implementing Neural Network on new HW platform such as Quantum Computer or Neuromorphic Computer
 - Compling AI
