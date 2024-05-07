@@ -33,8 +33,8 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 
 # 🔬 Experience
 - Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) 2024 Feb ~ Present
+  - Federated Learning  
   - A Study on Artificial Intelligence Using Embedded Sensors and Computing Power. Especially human context-aware.
-  - Embedded sensor-based ML
 - Undergraduate Intern @ [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
   - AI Modeling, Signal processing, and HW(3D modeling, Eagle CAD)
   - 보건복지부 과제 / Project in Ministry of Health and Welfare: 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
