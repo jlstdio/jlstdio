@@ -7,10 +7,10 @@ I have been involved in various projects related to AI, HCI(human-computer inter
 
 My research interest is..
 - Model Debiasing
- - LM debiasing
- - FL(Federated Learning) debiasing
+  - LM debiasing
+  - FL(Federated Learning) debiasing
 - HCI (Human-Computer Interaction)
- - Extracting pioneering insights from the sensor data
+  - Extracting pioneering insights from the sensor data
 
 I enjoy exchanging ideas and collaborating with other engineers and researchers to create innovative solutions for real-world problems.
 
