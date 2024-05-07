@@ -3,34 +3,22 @@
 # 😎 About Me
 As a student researcher at Yonsei University and Chung-Ang University, I am passionate about bringing powerful and responsible intelligence to edge devices.
 
-I have been involved in various projects related to AI, HCI(human-computer interaction), healthcare , and IoT, using embedded sensors, computing power, and deep learning models.
-
-My research interest is..
+## research interest
 - Model Debiasing
   - LM debiasing
   - FL(Federated Learning) debiasing
 - HCI (Human-Computer Interaction)
   - Extracting pioneering insights from the sensor data
-
-I enjoy exchanging ideas and collaborating with other engineers and researchers to create innovative solutions for real-world problems.
-
-Curriculum Vitae : [CV - May 2024.pdf](https://github.com/jlstdio/jlstdio/files/15229405/CV.-.May.2024.pdf)
-
-
-
-### Interest field
-- Model Debiasing
-    - LM debiasing
-    - FL(Federated Learning) debiasing
-- HCI (Human-Computer Interaction)
-    - Extracting pioneering insights from the sensor data
-
+ 
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/IOT-4ae495?style=flat-square&logoColor=black"/></a>
 
 <img src="https://img.shields.io/badge/ML DL-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/QuantumComputing-4ae495?style=flat-square&logoColor=black"/></a>
+
+### Curriculum Vitae
+[CV - May 2024.pdf](https://github.com/jlstdio/jlstdio/files/15229405/CV.-.May.2024.pdf)
 
 ### 📮 You can contact me on...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
