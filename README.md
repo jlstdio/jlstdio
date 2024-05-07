@@ -7,13 +7,11 @@ Curriculum Vitae : [CV - Mar 2024.pdf](https://github.com/jlstdio/jlstdio/files/
 
 
 ### Interest field
+- Model Debiasing
+    - LM debiasing
+    - FL(Federated Learning) debiasing
 - HCI (Human-Computer Interaction)
-    - Healthcare AI on device
-    - Contextual sensing using sensor data
-    - IoT
-    - LAM (Large Action Model)
-- LLM debiasing
-- Inferencing LLMs on edge device
+    - Extracting pioneering insights from the sensor data
 
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
