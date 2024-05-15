@@ -4,9 +4,8 @@
 As a student researcher at Yonsei University and Chung-Ang University, I am passionate about bringing powerful and responsible intelligence to edge devices.
 
 ## research interest
+- Federated Learning
 - Model Debiasing
-  - LM debiasing
-  - FL(Federated Learning) debiasing
 - HCI (Human-Computer Interaction)
   - Extracting pioneering insights from the sensor data
  
