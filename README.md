@@ -15,13 +15,11 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 <img src="https://img.shields.io/badge/QuantumComputing-4ae495?style=flat-square&logoColor=black"/></a>
 
 ### Curriculum Vitae
-[CV - May 2024.pdf](https://github.com/jlstdio/jlstdio/files/15229405/CV.-.May.2024.pdf)
+[CV - May 2024.pdf](https://github.com/jlstdio/jlstdio/files/15348510/CV.-.May.2024.pdf)
+
 
 ### 📮 You can contact me on...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
-
-![Gmail Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlstdio/)
-: [@jlstdio](https://www.instagram.com/jlstdio/)
 
 # 📚 Education
 - 경북대학교 정보영재원 Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) 2014 Dec ~ 2015 Dec
