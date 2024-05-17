@@ -5,9 +5,7 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 
 ## research interest
 - Federated Learning
-- Model Debiasing
-- HCI (Human-Computer Interaction)
-  - Extracting pioneering insights from the sensor data
+- HCI : Extracting useful insights(features) from the sensor data
  
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
