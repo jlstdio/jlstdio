@@ -4,8 +4,9 @@
 As a student researcher at Yonsei University and Chung-Ang University, I am passionate about bringing powerful and responsible intelligence to edge devices.
 
 ## research interest
+- HCI, Edge device AI
 - Federated Learning
-- HCI : Extracting useful insights(features) from the sensor data
+- Sensor data analysis: Extracting useful insights(features) from the sensor data
  
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
