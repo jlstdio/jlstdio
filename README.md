@@ -54,8 +54,33 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
- 
+
+# 🏆 Honors & Awards
+- 2018 수성인재장학생 scholarship student at [수성인재육성장학재단](http://ssef.or.kr/)
+- 2018 (Hack-a-thon) 3rd place [POSTECH 나노융합기술원 무한상상 메이커스 대회](https://nano.or.kr/new2019/index5.php)
+- 2019 연구논문 부문 우수 청소년 학자상(Excellent Youth Scholar Award) [KSCY](https://www.kscy.kr/)
+- 2021 (Hack-a-thon) 2nd place [세종혁신센터 세종 스마트 메이커톤](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
+- 2024 (Hack-a-thon) 1st place [KU-Cambridge Campus Sharing Economy MAKEathon](https://slp.korea.ac.kr/slp/makeathon/Who.do)
+
+# 🧩 Side Projects
+#### 0️⃣ Currently
+- [vibTouch](https://github.com/jlstdio/vibTouch)
+  
+#### 0️⃣ Waiting
+- [Dum-E](https://github.com/jlstdio/DUM-E) : A small AI robotics project. LLM Reasoning, performing the task by robot arm.
+
+#### 2️⃣ Finished
+- [HomemadeNN](https://github.com/jlstdio/HomemadeNN) : Making Neural Net only using Numpy & Pandas.
+- [SKDM](https://github.com/jlstdio/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
+- [LNDT-Private Repo](https://github.com/jlstdio/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
+- [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
+- [RE](https://github.com/jlstdio/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
+- [mobile 한글시계-Maintaining](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
+- [New Sense-Finished](https://github.com/jlstdio/NewSense) : Obstacle warning item for safe bike riding (2018)
+- [WAG-Stopped](https://github.com/jlstdio/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
+
 # 📎 ETCs
+#### I was involved in...
 - Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
 - Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
 - Mentor @ [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
@@ -65,66 +90,9 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 - Speaker @ [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회 2017
   - Introduction to opensource technology in UAV system & modeling light weight frame on various materials
 
-# 🥸 Self Development
+#### Stuffs I'm learning/doing in my free of free time
 - [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information)
-- [양자 컴퓨팅 및 정보의 기초 | Quantum Computing and Fundamental of Information]()
-- CS231n | CS224n
-
-# 🧩 Side Projects
-#### 0️⃣ Mainly
-- [Dum-E](https://github.com/jlstdio/DUM-E) : A small AI robotics project. LLM Reasoning, performing the task by robot arm.
-- [HomemadeNN](https://github.com/jlstdio/HomemadeNN) : Making Neural Net only using Numpy & Pandas.
-
-#### 2️⃣ Finished
-- [SKDM](https://github.com/jlstdio/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
-- [LNDT-Private Repo](https://github.com/jlstdio/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
-- [Penso](https://github.com/PensoTeam) project : Gaze tracking system project, for 'deep learning' learning purpose (Nov, 2021~)
-- [RE](https://github.com/jlstdio/Re) project : Up-cycling project, making application that can make old smartphone into smart home hub & smart speaker. This project also has intent to reuse old smartphone which is very hard to be thrown away
-- [mobile 한글시계-Maintaining](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
-- [New Sense-Finished](https://github.com/jlstdio/NewSense) : Obstacle warning item for safe bike riding (2018)
-- [WAG-Stopped](https://github.com/jlstdio/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
-
-# 🏆 Honors & Awards
-- 2018 수성인재장학생 scholarship student at [수성인재육성장학재단](http://ssef.or.kr/)
-- 2018 (Hack-a-thon) 3rd place [POSTECH 나노융합기술원 무한상상 메이커스 대회](https://nano.or.kr/new2019/index5.php)
-- 2019 연구논문 부문 우수 청소년 학자상(Excellent Youth Scholar Award) [KSCY](https://www.kscy.kr/)
-- 2021 (Hack-a-thon) 2nd place [세종혁신센터 세종 스마트 메이커톤](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
-- 2024 (Hack-a-thon) 1st place [KU-Cambridge Campus Sharing Economy MAKEathon](https://slp.korea.ac.kr/slp/makeathon/Who.do)
-
-# 📖 I'm studying / doing...
-## 📎 Capable of
-<img src="https://img.shields.io/badge/Python-4ae495?style=flat-square&logo=Python&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Kotlin-4ae495?style=flat-square&logo=Kotlin&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Java-4ae495?style=flat-square&logo=Java&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Swift-4ae495?style=flat-square&logo=Swift&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/C-4ae495?style=flat-square&logo=C&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/C++-4ae495?style=flat-square&logo=Cplusplus&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/C_Sharp-4ae495?style=flat-square&logo=CSharp&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/MATLAB-4ae495?style=flat-square&logoColor=black"/></a>
-|
-<img src="https://img.shields.io/badge/LISP-4ae495?style=flat-square&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Prolog-4ae495?style=flat-square&logoColor=black"/></a>
-
-<img src="https://img.shields.io/badge/Android-4ae495?style=flat-square&logo=Android&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/iOS-4ae495?style=flat-square&logo=Apple&logoColor=black"/></a>
-
-<img src="https://img.shields.io/badge/Firebase-4ae495?style=flat-square&logo=Firebase&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/webRTC-4ae495?style=flat-square&logo=webRTC&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/OpenCV-4ae495?style=flat-square&logo=OpenCV&logoColor=black"/></a>
-
-## 📎 Studying
-<img src="https://img.shields.io/badge/Qiskit-4ae495?style=flat-square&logo=Qiskit&logoColor=black"/></a>
-
-<img src="https://img.shields.io/badge/jetpack compose-4ae495?style=flat-square&logo=jetpackcompose&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/KMM-4ae495?style=flat-square&logo=kotlin&logoColor=black"/></a>
-
-<img src="https://img.shields.io/badge/DeepLearning-4ae495?style=flat-square&logo=OpenAI&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/MachineLearning-4ae495?style=flat-square&logo=OpenAI&logoColor=black"/></a>
-- original 'webRTC' & dataChannel bandwidth improving
-- Very beginning of Machine Learning & Deep Learning (Lecture 'CS231n' from Stanford Univ)
-- Very beginning of Quamtum Computing [Learning Quantum Computer](https://github.com/JoonLee-K/QuantumComputingLearning)
-- RFID backsacttering
-
-# 📎 Looking forward to
+- [Quantum Computing and Fundamental of Information]()
+- LLM : CS224n..
 - Implementing Neural Network on new HW platform such as Quantum Computer or Neuromorphic Computer
 - Compling AI
