@@ -5,8 +5,8 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 
 ## research interest
 - HCI, Edge device AI
-- Federated Learning [NEW!]
-- Sensor data analysis: Extracting useful insights(features) from the sensor data
+- Federated Learning
+- Sensor Data Analysis: Extracting useful insights(features) from the sensor data
  
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
@@ -29,7 +29,8 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 
 # 🔬 Experience
 - Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) 2024 Feb ~ Present
-  - Federated Learning  
+  - Federated Learning | Continuous Learning
+      - developing [FLT](https://github.com/jlstdio/FLT): A FL tool for fast and easy experiments without using massive experiment setup but on a single server.
   - A Study on Artificial Intelligence Using Embedded Sensors and Computing Power. Especially human context-aware.
 - Undergraduate Intern @ [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
   - AI Modeling, Signal processing, and HW(3D modeling, Eagle CAD)
