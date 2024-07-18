@@ -33,12 +33,8 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
       - developing [FLT](https://github.com/jlstdio/FLT): A FL tool for fast and easy experiments without using massive experiment setup but on a single server.
   - A Study on Artificial Intelligence Using Embedded Sensors and Computing Power. Especially human context-aware.
 - Undergraduate Intern @ [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
-  - AI Modeling, Signal processing, and HW(3D modeling, Eagle CAD)
-  - 보건복지부 과제 / Project in Ministry of Health and Welfare: 레이더 센서(RF-SCG)와 딥러닝 모델을 통한 참여의료 기술 연구 / Study on Participatory Medical Technology through Radar Sensor (RF-SCG) and Deep Learning Model
-    - RFID reader & RF signal phase tracking for detect human behavior | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
-    - Low-price & High-quality stethoscope & SCG measurement using smartphone with deep learning
-    - Health data collecting device research & development
-
+  - RFID reader & RF signal phase tracking for detect human behavior | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
+  - Developing a 3D-Printed Smartphone-Based Heart Sound Auscultation System for Affordable and User-Friendly Home Use
 
 - Founder & Mobile lead @ [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ 2023 Aug - [website](https://araconnect.site)
   - [ARA](https://tosssync.web.app/) project
