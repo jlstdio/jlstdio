@@ -24,7 +24,6 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 
 # 📚 Education
 - 경북대학교 정보영재원 Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) 2014 Dec ~ 2015 Dec
-- 대륜고등학교 Daeryun High School 2017 ~ 2019
 - 홍익대학교 컴퓨터공학과 Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) 2021 ~ Present
 
 # 🔬 Experience
