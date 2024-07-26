@@ -36,12 +36,9 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
   - Developing a 3D-Printed Smartphone-Based Heart Sound Auscultation System for Affordable and User-Friendly Home Use
 
 - Founder & Mobile lead @ [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ 2023 Aug - [website](https://araconnect.site)
-  - [ARA](https://tosssync.web.app/) project
+  - [ARA](https://tosssync.web.app/) Service
     - Mobile(iOS | Android) Native Development
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
-  - [Mogak](https://mogak.site) project
-    - ML/DL Development
-    - place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
       
 # 🎙️ Activities
 - Lead of SW dept @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023. Jul ~ Present
@@ -62,6 +59,8 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 # 🧩 Side Projects
 #### 0️⃣ Currently
 - [vibTouch](https://github.com/jlstdio/vibTouch)
+- [Mogak](https://mogak.site) project
+    - place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
   
 #### 0️⃣ Waiting
 - [Dum-E](https://github.com/jlstdio/DUM-E) : A small AI robotics project. LLM Reasoning, performing the task by robot arm.
