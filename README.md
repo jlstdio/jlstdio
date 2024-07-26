@@ -45,7 +45,7 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
       
 # 🎙️ Activities
 - Lead of SW dept @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023. Jul ~ Present
-  - Interaction development & indoor 3d position localization
+  - Managing VR interaction & SW infrastructure development
   - 2024 Software development team leader
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
