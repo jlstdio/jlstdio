@@ -29,10 +29,11 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 # 🔬 Experience
 - Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) 2024 Feb ~ Present
   - Federated Learning | Continuous Learning
-      - developing [FLT](https://github.com/jlstdio/FLT): A FL tool for fast and easy experiments without using massive experiment setup but on a single server.
-  - A Study on Artificial Intelligence Using Embedded Sensors and Computing Power. Especially human context-aware.
+      - Efficient FL
+      - developing [FLT](https://github.com/jlstdio/FLT): A FL tool for fast and easy experiments without using a massive experiment setup but on a single server.
+  - A Study on Intelligence Using Embedded Sensors. Especially human context-aware.
 - Undergraduate Intern @ [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
-  - RFID reader & RF signal phase tracking for detect human behavior | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
+  - SCG detection using RF & RFID radar | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
   - Developing a 3D-Printed Smartphone-Based Heart Sound Auscultation System for Affordable and User-Friendly Home Use
 
 - Founder & Mobile lead @ [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ 2023 Aug - [website](https://araconnect.site)
