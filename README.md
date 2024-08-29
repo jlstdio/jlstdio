@@ -23,26 +23,26 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
 
 # 📚 Education
-- 경북대학교 정보영재원 Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) 2014 Dec ~ 2015 Dec
-- 홍익대학교 컴퓨터공학과 Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) 2021 ~ Present
+- 경북대학교 정보영재원 Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) Dec. 2014 ~ Dec. 2015
+- 홍익대학교 컴퓨터공학과 Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Present
 
 # 🔬 Experience
-- Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) 2024 Feb ~ Present
+- Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
   - Federated Learning | Continuous Learning
       - Efficient FL
       - developing [FLT](https://github.com/jlstdio/FLT): A FL tool for fast and easy experiments without using a massive experiment setup but on a single server.
   - A Study on Intelligence Using Embedded Sensors. Especially human context-aware.
-- Undergraduate Intern @ [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) 2022 Dec ~ Present
+- Undergraduate Intern @ [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) Dec. 2022 ~ Dec. 2024
   - SCG detection using RF & RFID radar | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
   - Developing a 3D-Printed Smartphone-Based Heart Sound Auscultation System for Affordable and User-Friendly Home Use
 
-- Founder & Mobile lead @ [VAST](https://github.com/ARA-developer/ARA) 2020 Jan ~ 2023 Aug - [website](https://araconnect.site)
+- Founder & Mobile lead @ [VAST](https://github.com/ARA-developer/ARA) Jan. 2020 ~ Aug. 2023 - [website](https://araconnect.site)
   - [ARA](https://tosssync.web.app/) Service
     - Mobile(iOS | Android) Native Development
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
       
 # 🎙️ Activities
-- Lead of SW dept @ [P.EYE](https://readymag.com/u1427907511/peye/) 2023. Jul ~ Present
+- Lead of SW dept @ [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Dec. 2024
   - Managing VR interaction & SW infrastructure development
   - 2024 Software development team leader
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
