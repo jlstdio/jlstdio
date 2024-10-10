@@ -47,6 +47,7 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
   - 2024 Software development team leader
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
+- Review Committee @ NAEK's Engineering Technology Book 2024
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
 
 # 🏆 Honors & Awards
