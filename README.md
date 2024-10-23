@@ -23,8 +23,8 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
 
 # 📚 Education
-- 경북대학교 정보영재원 Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) Dec. 2014 ~ Dec. 2015
-- 홍익대학교 컴퓨터공학과 Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Present
+- Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) Dec. 2014 ~ Dec. 2015
+- Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Present
 
 # 🔬 Experience
 - Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
@@ -51,12 +51,12 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
 
 # 🏆 Honors & Awards
-- 2018 Scholarship [수성인재육성장학재단](http://ssef.or.kr/)
-- 2018 3rd place [POSTECH 나노융합기술원 무한상상 메이커스 대회](https://nano.or.kr/new2019/index5.php)
+- 2018 Scholarship [Suseong Future Education Foundataion](http://ssef.or.kr/)
+- 2018 3rd place [POSTECH NINT makers competition](https://nano.or.kr/new2019/index5.php)
 - 2019 Excellent Youth Scholar Award [KSCY](https://www.kscy.kr/)
-- 2021 2nd place [세종혁신센터 세종 스마트 메이커톤](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
+- 2021 2nd place [Sejong CCEI Make-A-Thon](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
 - 2024 1st place [KU-Cambridge Campus Sharing Economy MAKEathon](https://slp.korea.ac.kr/slp/makeathon/Who.do)
-- 2024 Scholarship [귀뚜라미 재단](https://kfoc.or.kr//?c=2/10)
+- 2024 Scholarship [KLF](https://kfoc.or.kr//?c=2/10)
 
 # 🧩 Side Projects
 #### 0️⃣ Currently
