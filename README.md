@@ -5,7 +5,7 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 
 ## research interest
 - Federated Learning
-- Continuous Learning
+- Continual Learning
 - HCI via sensing
  
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
