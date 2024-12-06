@@ -26,8 +26,8 @@ Incoming Master's degree student at Integrated Technology at Yonsei Univ
 
 # 📚 Education
 - Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) Dec. 2014 ~ Dec. 2015
-- [Expected] Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Feb. 2025
-- [Incoming] Integrated Technology in [Yonsei Univ](https://sit.yonsei.ac.kr/sit/index.do) Mar. 2025 ~
+- [Expected] B.S. Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Feb. 2025
+- [Incoming] M.S. Integrated Technology in [Yonsei Univ](https://sit.yonsei.ac.kr/sit/index.do) Mar. 2025 ~
 
 # 🔬 Experience
 - Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
