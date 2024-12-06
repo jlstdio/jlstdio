@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
 
 # 😎 About Me
-As a student researcher at Yonsei University and Chung-Ang University, I am passionate about bringing powerful and responsible intelligence to edge devices.
+I am passionate about bringing powerful and responsible intelligence to edge devices.
+
+Incoming Master's degree student at Integrated Technology at Yonsei Univ
 
 ## research interest
 - Federated Learning
@@ -16,7 +18,7 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 <img src="https://img.shields.io/badge/QuantumComputing-4ae495?style=flat-square&logoColor=black"/></a>
 
 ### Curriculum Vitae
-[CV - May 2024.pdf](https://github.com/jlstdio/jlstdio/files/15348510/CV.-.May.2024.pdf)
+[CV - Dec 2024.pdf](https://github.com/user-attachments/files/18039609/CV.-.Dec.2024.pdf)
 
 
 ### 📮 You can contact me on...
@@ -24,7 +26,8 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 
 # 📚 Education
 - Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) Dec. 2014 ~ Dec. 2015
-- Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Present
+- [Expected] Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Feb. 2025
+- [Incoming] Integrated Technology in [Yonsei Univ](https://sit.yonsei.ac.kr/sit/index.do) Mar. 2025 ~
 
 # 🔬 Experience
 - Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
@@ -42,7 +45,7 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
       
 # 🎙️ Activities
-- Lead of SW dept @ [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Dec. 2024
+- Lead of SW dept @ [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Present
   - Managing VR interaction & SW infrastructure development
   - 2024 Software development team leader
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
@@ -56,7 +59,7 @@ As a student researcher at Yonsei University and Chung-Ang University, I am pass
 - 2019 Excellent Youth Scholar Award [KSCY](https://www.kscy.kr/)
 - 2021 2nd place [Sejong CCEI Make-A-Thon](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
 - 2024 1st place [KU-Cambridge Campus Sharing Economy MAKEathon](https://slp.korea.ac.kr/slp/makeathon/Who.do)
-- 2024 Scholarship [KLF](https://kfoc.or.kr//?c=2/10)
+- 2024 Scholarship [KFOC](https://kfoc.or.kr//?c=2/10)
 
 # 🧩 Side Projects
 #### 0️⃣ Currently
