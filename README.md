@@ -45,10 +45,14 @@ Incoming Master's degree student at Integrated Technology at Yonsei Univ
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
       
 # 🎙️ Activities
-- Student @ [建明苑(건명원, High Humanitas School)](https://www.gunmyung.or.kr/banner) Starting at Mar. 2025
-- Lead of SW dept @ [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Present
-  - Managing VR interaction & SW infrastructure development
-  - 2024 Software development team leader
+- [建明苑(건명원, High Humanitas School)](https://www.gunmyung.or.kr/banner)
+   - Student of Class 2025 (Starting at Mar. 2025)
+- [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Present
+  - 2023 Software developer
+    - VR interaction & SW infrastructure(Check-in system / Website) development
+  - 2024 Lead of Software Dept
+    - Managing Software development & Interactive wall devlopment
+  - 2025 President
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Review Committee @ NAEK's Engineering Technology Book 2024
