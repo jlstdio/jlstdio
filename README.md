@@ -45,8 +45,6 @@ Incoming Master's degree student at Integrated Technology at Yonsei Univ
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
       
 # 🎙️ Activities
-- [建明苑(건명원, High Humanitas School)](https://www.gunmyung.or.kr/banner)
-   - Student of Class 2025 (Starting at Mar. 2025)
 - [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Present
   - 2023 Software developer
     - VR interaction & SW infrastructure(Check-in system / Website) development
