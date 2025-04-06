@@ -6,9 +6,9 @@ I am passionate about bringing powerful and responsible intelligence to edge dev
 Incoming Master's degree student at Integrated Technology at Yonsei Univ
 
 ## research interest
+- Mobile Computing
 - Federated Learning
-- Continual Learning
-- HCI via sensing
+- Surroundings & Human Context Understanding via Sensing
  
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
