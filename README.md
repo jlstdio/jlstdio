@@ -18,7 +18,7 @@ Persuing Master's degree in Integrated Technology @ Yonsei Univ
 <img src="https://img.shields.io/badge/QuantumComputing-4ae495?style=flat-square&logoColor=black"/></a>
 
 ### Curriculum Vitae
-[CV - Dec 2024.pdf](https://github.com/user-attachments/files/18039609/CV.-.Dec.2024.pdf)
+[CV - Apr 2025.pdf](https://github.com/user-attachments/files/19686285/CV.-.Apr.2025.pdf)
 
 
 ### 📮 You can contact me on...
