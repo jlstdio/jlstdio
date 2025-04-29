@@ -3,7 +3,7 @@
 # 😎 About Me
 I am passionate about bringing powerful and responsible intelligence to edge devices.
 
-Persuing Master's degree in Integrated Technology @ Yonsei Univ
+Pursuing Master's degree in Integrated Technology @ Yonsei Univ
 
 ## research interest
 - Mobile Computing
