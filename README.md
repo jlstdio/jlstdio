@@ -26,20 +26,24 @@ Pursuing Master's degree in Integrated Technology @ Yonsei Univ
 
 # 📚 Education
 - Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) Dec. 2014 ~ Dec. 2015
-- [Expected] B.S. Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Feb. 2025
-- [Incoming] M.S. Integrated Technology in [Yonsei Univ](https://sit.yonsei.ac.kr/sit/index.do) Mar. 2025 ~
+- B.S. Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Feb. 2025
+- M.S. Integrated Technology in [Yonsei Univ](https://sit.yonsei.ac.kr/sit/index.do) Mar. 2025 ~
 
 # 🔬 Experience
-- Undergraduate Intern @ [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
+- [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
+  - Master's Degree Student Mar. 2025 ~ Present
+  - Undergraduate Intern Feb. 2024 ~ Feb. 2025
   - Federated Learning | Continuous Learning
       - Efficient FL
       - developing [FLT](https://github.com/jlstdio/FLT): A FL tool for fast and easy experiments without using a massive experiment setup but on a single server.
   - A Study on Intelligence Using Embedded Sensors. Especially human context-aware.
-- Undergraduate Intern @ [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) Dec. 2022 ~ Dec. 2024
+- [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) Dec. 2022 ~ Feb. 2025
+  - Undergraduate Intern Dec. 2022 ~ Feb. 2025
   - SCG detection using RF & RFID radar | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
   - Developing a 3D-Printed Smartphone-Based Heart Sound Auscultation System for Affordable and User-Friendly Home Use
 
-- Founder & Mobile lead @ [VAST](https://github.com/ARA-developer/ARA) Jan. 2020 ~ Aug. 2023 - [website](https://araconnect.site)
+- [VAST](https://github.com/ARA-developer/ARA) Jan. 2020 ~ Aug. 2023 - [website](https://araconnect.site)
+  - Founder & Mobile lead
   - [ARA](https://tosssync.web.app/) Service
     - Mobile(iOS | Android) Native Development
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
