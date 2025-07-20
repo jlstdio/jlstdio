@@ -5,27 +5,22 @@ I am passionate about bringing powerful and responsible intelligence to edge dev
 
 Pursuing Master's degree in Integrated Technology @ Yonsei Univ
 
+## "Proactive Technology"
+
+**_What I want to make with technology is something that understands the world better and providing right help._**
+
 ## research interest
+
 My research interest is mainly mobile computing.
-
-**_What I want to make with technology is something that understands the world better and providing right help of the technology._**
-
 
 To make the dream possible I'm working on these kinds of topics.
 
-Point of view in understanding the world
+**Point of view in understanding the world**
 - efficient & realtime LLM inference on mobile devices & robots
 - Surroundings & Human Context Understanding via Sensing
   
-Point of view in teaching the model in ethic way
+**Point of view in teaching the model in ethic way**
 - Federated Learning
- 
-<img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/IOT-4ae495?style=flat-square&logoColor=black"/></a>
-
-<img src="https://img.shields.io/badge/ML DL-4ae495?style=flat-square&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/QuantumComputing-4ae495?style=flat-square&logoColor=black"/></a>
 
 ### Curriculum Vitae
 [CV - Jul 2025.pdf](https://github.com/user-attachments/files/21334756/CV.-.Jul.2025.pdf)
