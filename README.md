@@ -21,7 +21,8 @@ Point of view in teaching the model in ethic way
 <img src="https://img.shields.io/badge/QuantumComputing-4ae495?style=flat-square&logoColor=black"/></a>
 
 ### Curriculum Vitae
-[CV - Apr 2025.pdf](https://github.com/user-attachments/files/19686285/CV.-.Apr.2025.pdf)
+[CV - Jul 2025.pdf](https://github.com/user-attachments/files/21334756/CV.-.Jul.2025.pdf)
+
 
 
 ### 📮 You can contact me on...
