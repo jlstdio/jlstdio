@@ -6,9 +6,12 @@ I am passionate about bringing powerful and responsible intelligence to edge dev
 Pursuing Master's degree in Integrated Technology @ Yonsei Univ
 
 ## research interest
-- Mobile Computing
-- Federated Learning
+Point of view in understanding the world
+- efficient & realtime LLM inference on mobile devices & robots
 - Surroundings & Human Context Understanding via Sensing
+  
+Point of view in teaching the model in ethic way
+- Federated Learning
  
 <img src="https://img.shields.io/badge/HCI-4ae495?style=flat-square&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ContextAware-4ae495?style=flat-square&logoColor=black"/></a>
