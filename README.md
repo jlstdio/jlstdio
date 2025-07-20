@@ -8,7 +8,8 @@ Pursuing Master's degree in Integrated Technology @ Yonsei Univ
 ## research interest
 My research interest is mainly mobile computing.
 
-What I want to make with technology is something that understands the world better and providing right help of the technology.
+**_What I want to make with technology is something that understands the world better and providing right help of the technology._**
+
 
 To make the dream possible I'm working on these kinds of topics.
 
