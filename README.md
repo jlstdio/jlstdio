@@ -55,6 +55,7 @@ To make the dream possible I'm working on these kinds of topics.
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
       
 # 🎙️ Activities
+- Review Committee @ NAEK's Engineering Technology Book 2024 ~ Persens
 - [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Present
   - 2023 Software developer
     - VR interaction & SW infrastructure(Check-in system / Website) development
@@ -63,16 +64,16 @@ To make the dream possible I'm working on these kinds of topics.
   - 2025 President
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
-- Review Committee @ NAEK's Engineering Technology Book 2024
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
 
-# 🏆 Honors & Awards
-- 2018 Scholarship [Suseong Future Education Foundataion](http://ssef.or.kr/)
-- 2018 3rd place [POSTECH NINT makers competition](https://nano.or.kr/new2019/index5.php)
-- 2019 Excellent Youth Scholar Award [KSCY](https://www.kscy.kr/)
-- 2021 2nd place [Sejong CCEI Make-A-Thon](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
-- 2024 1st place [KU-Cambridge Campus Sharing Economy MAKEathon](https://slp.korea.ac.kr/slp/makeathon/Who.do)
+# 🏆 Publications
+- 2025 UIST'25 Poster [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://sites.google.com/view/hcslab-cau/publications?authuser=0#h.3xa269c52maj)
+  - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
+  
+# 🏆 Honors & Awards (5 years window)
 - 2024 Scholarship [KFOC](https://kfoc.or.kr//?c=2/10)
+- 2024 1st place [KU-Cambridge Campus Sharing Economy MAKEathon](https://slp.korea.ac.kr/slp/makeathon/Who.do)
+- 2021 2nd place [Sejong CCEI Make-A-Thon](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
 
 # 🧩 Side Projects
 #### 0️⃣ Currently
@@ -80,10 +81,8 @@ To make the dream possible I'm working on these kinds of topics.
 - [Mogak](https://mogak.site) project
     - place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
   
-#### 0️⃣ Waiting
+#### 0️⃣ Waiting / Finished
 - [Dum-E](https://github.com/jlstdio/DUM-E) : A small AI robotics project. LLM Reasoning, performing the task by robot arm.
-
-#### 2️⃣ Finished
 - [HomemadeNN](https://github.com/jlstdio/HomemadeNN) : Making Neural Net only using Numpy & Pandas.
 - [SKDM](https://github.com/jlstdio/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
 - [LNDT-Private Repo](https://github.com/jlstdio/LocalNetworkDataTransfer) : Making P2P system that doesn't require internet access while achieving data transfer with iOS & Android & MacOS & Windows : This is part of ARA project
