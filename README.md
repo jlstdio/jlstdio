@@ -57,7 +57,8 @@ To make the dream possible I'm working on these kinds of topics.
 # 🏆 Publications
 - UIST '25 Poster [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://sites.google.com/view/hcslab-cau/publications?authuser=0#h.3xa269c52maj)
   - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
-- Arxiv '25 Paper [LLM-based Question-Answer Framework for Sensor-driven HVAC System Interaction](https://arxiv.org/abs/2507.04748)
+- Arxiv '25 (Under review) Paper [LLM-based Question-Answer Framework for Sensor-driven HVAC System Interaction](https://arxiv.org/abs/2507.04748)
+  - Sungmin Lee, Minju Kang, Joonhee Lee, Seungyong Lee, Dongju Kim, Jingi Hong, Jun Shin, Pei Zhang, JeongGil Ko
   
 # 🎙️ Activities
 - Review Committee @ NAEK's Engineering Technology Book 2024 ~ Persens
