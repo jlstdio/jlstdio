@@ -53,7 +53,12 @@ To make the dream possible I'm working on these kinds of topics.
   - [ARA](https://tosssync.web.app/) Service
     - Mobile(iOS | Android) Native Development
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
-      
+
+# 🏆 Publications
+- UIST '25 Poster [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://sites.google.com/view/hcslab-cau/publications?authuser=0#h.3xa269c52maj)
+  - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
+- Arxiv '25 Paper [LLM-based Question-Answer Framework for Sensor-driven HVAC System Interaction](https://arxiv.org/abs/2507.04748)
+  
 # 🎙️ Activities
 - Review Committee @ NAEK's Engineering Technology Book 2024 ~ Persens
 - [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Present
@@ -65,10 +70,6 @@ To make the dream possible I'm working on these kinds of topics.
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
-
-# 🏆 Publications
-- 2025 UIST'25 Poster [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://sites.google.com/view/hcslab-cau/publications?authuser=0#h.3xa269c52maj)
-  - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
   
 # 🏆 Honors & Awards (5 years window)
 - 2024 Scholarship [KFOC](https://kfoc.or.kr//?c=2/10)
