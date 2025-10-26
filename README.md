@@ -39,10 +39,11 @@ To make the dream possible I'm working on these kinds of topics.
 - [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
   - Master's Degree Student Mar. 2025 ~ Present
   - Undergraduate Intern Feb. 2024 ~ Feb. 2025
+  - LLM
+    - efficient LLM inference & Agentic AI
+    - Timeseries data understanding in LLM
   - Federated Learning | Continuous Learning
       - Efficient FL
-      - developing [FLT](https://github.com/jlstdio/FLT): A FL tool for fast and easy experiments without using a massive experiment setup but on a single server.
-  - A Study on Intelligence Using Embedded Sensors. Especially human context-aware.
 - [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) Dec. 2022 ~ Feb. 2025
   - Undergraduate Intern Dec. 2022 ~ Feb. 2025
   - SCG detection using RF & RFID radar | [RFID](https://github.com/JoonLee-K/SDR_UHF_RFID_reader)
@@ -61,18 +62,18 @@ To make the dream possible I'm working on these kinds of topics.
   - Sungmin Lee, Minju Kang, Joonhee Lee, Seungyong Lee, Dongju Kim, Jingi Hong, Jun Shin, Pei Zhang, JeongGil Ko
   
 # 🎙️ Activities
-- Review Committee @ NAEK's Engineering Technology Book 2024 ~ Persens
+- Review Committee @ NAEK's Engineering Technology Book 2024 ~ Present
 - [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Present
-  - 2023 Software developer
-    - VR interaction & SW infrastructure(Check-in system / Website) development
+  - 2025 President
   - 2024 Lead of Software Dept
     - Managing Software development & Interactive wall devlopment
-  - 2025 President
+  - 2023 Software developer
+    - VR interaction & SW infrastructure(Check-in system / Website) development
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
-- Open Community Member @ [GDSC Hongik](https://gdsc.community.dev/hongik-university/)
   
 # 🏆 Honors & Awards (5 years window)
+- 2024 2nd place [5th Creative Bridge Festival](https://swb.skku.edu/scicam/notice.do?mode=view&articleNo=54470&article.offset=0&articleLimit=10)
 - 2024 Scholarship [KFOC](https://kfoc.or.kr//?c=2/10)
 - 2024 1st place [KU-Cambridge Campus Sharing Economy MAKEathon](https://slp.korea.ac.kr/slp/makeathon/Who.do)
 - 2021 2nd place [Sejong CCEI Make-A-Thon](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
