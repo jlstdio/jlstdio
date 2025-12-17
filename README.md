@@ -56,10 +56,12 @@ To make the dream possible I'm working on these kinds of topics.
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
 
 # 🏆 Publications
-- UIST '25 Poster [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://programs.sigchi.org/uist/2025/program/content/209334)
+- Mobisys 26 (Under review) Paper  "Anonymized Paper"
+  - Joonhee Lee, Hyunseung Shin, JeongGil Ko
+- IMWUT/Ubicomp 26 (Under review) Paper  "Anonymized Paper"
+  - Sungmin Lee, Joonhee Lee, Minju Kang, Seungyong Lee, Dongju Kim, Jingi Hong, Jun Shin, Pei Zhang, JeongGil Ko
+- UIST 25 Poster [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://programs.sigchi.org/uist/2025/program/content/209334)
   - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
-- Arxiv '25 (Under review) Paper [LLM-based Question-Answer Framework for Sensor-driven HVAC System Interaction](https://arxiv.org/abs/2507.04748)
-  - Sungmin Lee, Minju Kang, Joonhee Lee, Seungyong Lee, Dongju Kim, Jingi Hong, Jun Shin, Pei Zhang, JeongGil Ko
   
 # 🎙️ Activities
 - Review Committee @ NAEK's Engineering Technology Book 2024 ~ Present
