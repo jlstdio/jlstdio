@@ -39,9 +39,10 @@ To make the dream possible I'm working on these kinds of topics.
 - [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
   - Master's Degree Student Mar. 2025 ~ Present
   - Undergraduate Intern Feb. 2024 ~ Feb. 2025
-  - LLM
-    - efficient LLM inference & Agentic AI
-    - Timeseries data understanding in LLM
+  - efficient LLM inference & Agentic AI
+    - A Dual-Process Architecture for Real-Time VLM-Based System
+  - In Network Computing
+    - Federated Network System for Intermittent Computed Sensors
   - Federated Learning | Continuous Learning
       - Efficient FL
 - [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) Dec. 2022 ~ Feb. 2025
