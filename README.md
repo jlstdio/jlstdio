@@ -68,7 +68,7 @@ To make the dream possible I'm working on these kinds of topics.
   - Sungmin Lee, Joonhee Lee, Minju Kang, Seungyong Lee, Dongju Kim, Jingi Hong, Jun Shin, Pei Zhang, JeongGil Ko
  
 ## Preprints
-- Now or Never: Continuous Surveillance AIoT System for Ephemeral Events in Intermittent Sensor Networks
+- [Now or Never: Continuous Surveillance AIoT System for Ephemeral Events in Intermittent Sensor Networks](https://arxiv.org/abs/2512.24179)
   - Joonhee Lee, Kichang Lee, JeongGil Ko
   
 # 🎙️ Activities
