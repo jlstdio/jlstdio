@@ -3,7 +3,7 @@
 # 😎 About Me
 I am passionate about bringing powerful and responsible intelligence to edge devices.
 
-Pursuing Master's degree in Integrated Technology @ Yonsei Univ
+Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](https://sites.google.com/site/jeonggilko)
 
 ## "Proactive Technology"
 
