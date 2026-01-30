@@ -28,7 +28,7 @@ To make the dream possible I'm working on these kinds of topics.
 # 📚 Education
 - Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) Dec. 2014 ~ Dec. 2015
 - B.S. Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Feb. 2025
-- M.S. Integrated Technology in [Yonsei Univ](https://sit.yonsei.ac.kr/sit/index.do) Mar. 2025 ~
+- Ph.D. Integrated Technology in [Yonsei Univ](https://sit.yonsei.ac.kr/sit/index.do) Mar. 2025 ~
 
 # 🔬 Experience
 - [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
