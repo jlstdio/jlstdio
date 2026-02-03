@@ -32,7 +32,7 @@ To make the dream possible I'm working on these kinds of topics.
 
 # 🔬 Experience
 - [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
-  - Master's Degree Student Mar. 2025 ~ Present
+  - Ph.D. Student Mar. 2025 ~ Present
   - Undergraduate Intern Feb. 2024 ~ Feb. 2025
   - efficient LLM inference & Agentic AI
     - A Dual-Process Architecture for Real-Time VLM-Based System
@@ -69,7 +69,7 @@ To make the dream possible I'm working on these kinds of topics.
   
 # 🎙️ Activities
 - Review Committee @ NAEK's Engineering Technology Book 2024 ~ Present
-- [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Present
+- [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Jan. 2026
   - 2025 President
   - 2024 Lead of Software Dept
     - Managing Software development & Interactive wall devlopment
