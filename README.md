@@ -54,7 +54,7 @@ To make the dream possible I'm working on these kinds of topics.
 ## Published
 - [Poster] UIST 25 [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://programs.sigchi.org/uist/2025/program/content/209334)
   - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
-- [Poster] ZABAPAD workshop @ WWW 26 [Now or Never: Continuous Surveillance AIoT System for Ephemeral Events in Intermittent Sensor Networks](https://arxiv.org/abs/2512.24179)
+- [Paper] ZABAPAD workshop @ WWW 26 [Now or Never: Continuous Surveillance AIoT System for Ephemeral Events in Intermittent Sensor Networks](https://arxiv.org/abs/2512.24179)
   - Joonhee Lee, Kichang Lee, JeongGil Ko
   
 ## Under review
