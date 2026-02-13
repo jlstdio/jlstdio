@@ -18,7 +18,8 @@ To make the dream possible I'm working on these kinds of topics.
 - Efficient or high performance with low energy Sensing technology for better understanding of surroundings & human context
 
 ### Curriculum Vitae
-[CV - Jan 2026.pdf](https://github.com/user-attachments/files/25297230/CV.-.Jan.2026.pdf)
+[CV - Jan 2026.pdf](https://github.com/user-attachments/files/25297261/CV.-.Jan.2026.pdf)
+
 
 ### 📮 You can contact me on...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
