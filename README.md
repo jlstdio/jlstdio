@@ -5,7 +5,7 @@ I am passionate about bringing powerful and responsible intelligence to edge dev
 
 Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](https://sites.google.com/site/jeonggilko)
 
-## "Proactive Technology"
+## "Proactive Computing"
 
 **_What I want to make with technology is something that understands the world better and providing right help._**
 
@@ -18,7 +18,7 @@ To make the dream possible I'm working on these kinds of topics.
 - Efficient or high performance with low energy Sensing technology for better understanding of surroundings & human context
 
 ### Curriculum Vitae
-[CV - Jan 2026.pdf](https://github.com/user-attachments/files/25297322/CV.-.Jan.2026.pdf)
+[CV - May 2026.pdf](https://github.com/user-attachments/files/27705705/CV.-.May.2026.pdf)
 
 
 ### 📮 You can contact me on...
