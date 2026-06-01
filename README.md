@@ -63,7 +63,7 @@ To make the dream possible I'm working on these kinds of topics.
 - None
  
 ## Preprints
-- [Paper] Arxiv 26 On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making](https://arxiv.org/abs/2605.31460)
+- [Paper] Arxiv 26 [On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making](https://arxiv.org/abs/2605.31460)
   - Joonhee Lee, Hyunseung Shin, Hyunmi Kim, Pei Zhang, Jeonggil Ko
 - [Paper] Arxiv 25 [IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation](https://arxiv.org/abs/2601.21506)
   - Joonhee Lee, Hyunseung Shin, JeongGil Ko
