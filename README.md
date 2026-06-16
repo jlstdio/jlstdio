@@ -52,11 +52,11 @@ To make the dream possible I'm working on these kinds of topics.
 
 # 🏆 Publications
 ## Published
-- [Paper, Will be published] IMWUT/Ubicomp 26 [JARVIS for HVAC: LLM-based Question-Answer Framework for Sensor-driven HVAC System Interaction]()
+- [Journal Paper] IMWUT/Ubicomp 26 [JARVIS for HVAC: LLM-based Question-Answer Framework for Sensor-driven HVAC System Interaction](https://dl.acm.org/doi/epdf/10.1145/3810210)
   - Sungmin Lee, Joonhee Lee, Minju Kang, Seungyong Lee, Dongju Kim, Jingi Hong, Jun Shin, Pei Zhang, JeongGil Ko
-- [Short Paper] ZABAPAD workshop @ WWW 26 [Now or Never: Continuous Surveillance AIoT System for Ephemeral Events in Intermittent Sensor Networks](https://arxiv.org/abs/2512.24179)
+- [Short Conference Paper] ZABAPAD workshop @ WWW 26 [Now or Never: Continuous Surveillance AIoT System for Ephemeral Events in Intermittent Sensor Networks](https://arxiv.org/abs/2512.24179)
   - Joonhee Lee, Kichang Lee, JeongGil Ko
-- [Poster] UIST 25 [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://programs.sigchi.org/uist/2025/program/content/209334)
+- [Conference Poster] UIST 25 [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://programs.sigchi.org/uist/2025/program/content/209334)
   - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
   
 ## Under review
