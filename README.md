@@ -18,7 +18,8 @@ To make the dream possible I'm working on these kinds of topics.
 - Efficient or high performance with low energy Sensing technology for better understanding of surroundings & human context
 
 ### Curriculum Vitae
-[CV - May 2026.pdf](https://github.com/user-attachments/files/27705705/CV.-.May.2026.pdf)
+[CV - Jun 2026](https://github.com/user-attachments/files/29422315/CV.-.Jun.2026.pdf)
+
 
 
 ### 📮 You can contact me on...
