@@ -30,6 +30,9 @@ To make the dream possible I'm working on these kinds of topics.
 - Ph.D. Integrated Technology in [Yonsei Univ](https://sit.yonsei.ac.kr/sit/index.do) Mar. 2025 ~
 
 # 🔬 Experience
+- [University of Michigan, Ann Arbor](https://umich.edu/) Jun. 2026 ~ Dec. 2026
+  - Visiting Scholar Jun. 2026 ~ Dec. 2026
+  - Study on Sensor Network Wake Up Policy & Inference Offloading
 - [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
   - Ph.D. Student Mar. 2025 ~ Present
   - Undergraduate Intern Feb. 2024 ~ Feb. 2025
