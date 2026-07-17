@@ -64,11 +64,10 @@ To make the dream possible I'm working on these kinds of topics.
   - Gyeongmin Han, Sungmin Lee, JoonHee Lee, Kichang Lee, JeongGil Ko
 - [Conference Poster] UIST 25 [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://programs.sigchi.org/uist/2025/program/content/209334)
   - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
-  
-## Under review
-- CoRL 26 Under review
  
 ## Preprints
+- [Paper] Arxiv 26 [On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making](https://arxiv.org/abs/2605.31460)
+  - Joonhee Lee, Hyunseung Shin, Hyunmi Kim, Pei Zhang, Jeonggil Ko
 - [Paper] Arxiv 25 [IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation](https://arxiv.org/abs/2601.21506)
   - Joonhee Lee, Hyunseung Shin, JeongGil Ko
   
