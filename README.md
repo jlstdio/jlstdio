@@ -14,8 +14,8 @@ Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](h
 My research interest is mainly mobile computing.
 
 To make the dream possible I'm working on these kinds of topics.
-- Systemic approach for efficient & realtime AI inference on mobile devices & robots
-- Efficient or high performance with low energy Sensing technology for better understanding of surroundings & human context
+- Systemic approach for efficient & realtime AI inference on robotics & edges devices
+- Multi modality understanding
 
 ### Curriculum Vitae
 [CV - Jun 2026](https://github.com/user-attachments/files/29422315/CV.-.Jun.2026.pdf)
@@ -33,7 +33,7 @@ To make the dream possible I'm working on these kinds of topics.
 # 🔬 Experience
 - [University of Michigan, Ann Arbor](https://umich.edu/) Jun. 2026 ~ Dec. 2026
   - Visiting Scholar Jun. 2026 ~ Dec. 2026
-  - Study on Sensor Network Wake Up Policy & Inference Offloading
+  - Study on Multi-Sensor modality understanding
 - [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
   - Ph.D. Student Mar. 2025 ~ Present
   - Undergraduate Intern Feb. 2024 ~ Feb. 2025
