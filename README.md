@@ -11,7 +11,7 @@ Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](h
 
 ## research interest
 
-My research interest is mainly mobile computing.
+My research interest is mainly efficient inference in robotics and mobile computing.
 
 To make the dream possible I'm working on these kinds of topics.
 - Systemic approach for efficient & realtime AI inference on robotics & edges devices
