@@ -1,13 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
 
 # 😎 About Me
-I am passionate about bringing powerful and responsible intelligence to edge devices.
+I am passionate about enabling "Proactive Computing".
 
 Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](https://sites.google.com/site/jeonggilko)
-
-## "Proactive Computing"
-
-**_What I want to make with technology is something that understands the world better and providing right help._**
 
 ## research interest
 
@@ -17,13 +13,14 @@ To make the dream possible I'm working on these kinds of topics.
 - Systemic approach for efficient & realtime AI inference on robotics & edges devices
 - Multi modality understanding
 
-### Curriculum Vitae
+## Curriculum Vitae
 [CV - Jun 2026](https://github.com/user-attachments/files/29422315/CV.-.Jun.2026.pdf)
 
-
-
-### 📮 You can contact me on...
+## 📮 You can contact me on...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
+
+## Writings
+[Opinions on Various Things and Concepts (KR Only)](https://brunch.co.kr/@jlstdio)
 
 # 📚 Education
 - Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) Dec. 2014 ~ Dec. 2015
