@@ -70,7 +70,7 @@ To make the dream possible I'm working on these kinds of topics.
   
 # 🎙️ Activities
 - Review Committee @ NAEK's Engineering Technology Book 2024 ~ Present
-- [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Jan. 2026
+- [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Aug. 2026
   - 2025 President
   - 2024 Lead of Software Dept
     - Managing Software development & Interactive wall devlopment
