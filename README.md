@@ -5,7 +5,7 @@ I am passionate about enabling "Proactive Computing".
 
 Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](https://sites.google.com/site/jeonggilko)
 
-## research interest
+## ✨ research interest
 
 My research interest is mainly efficient inference in robotics and mobile computing.
 
@@ -13,13 +13,13 @@ To make the dream possible I'm working on these kinds of topics.
 - Systemic approach for efficient & realtime AI inference on robotics & edges devices
 - Multi modality understanding
 
-## Curriculum Vitae
+## 🐧 Curriculum Vitae
 [CV - Jun 2026](https://github.com/user-attachments/files/29422315/CV.-.Jun.2026.pdf)
 
 ## 📮 You can contact me on...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neo81389@gmail.com)](mailto:neo81389@gmail.com) : neo81389@gmail.com
 
-## Writings
+## ✍🏻 Writings
 [Opinions on Various Things and Concepts (KR Only)](https://brunch.co.kr/@jlstdio)
 
 # 📚 Education
@@ -51,7 +51,7 @@ To make the dream possible I'm working on these kinds of topics.
     - Mobile(iOS | Android) Native Development
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
 
-# 🏆 Publications
+# 📄 Publications
 ## Published
 - [Journal Paper] IMWUT/Ubicomp 26 [JARVIS for HVAC: LLM-based Question-Answer Framework for Sensor-driven HVAC System Interaction](https://dl.acm.org/doi/epdf/10.1145/3810210)
   - Sungmin Lee, Joonhee Lee, Minju Kang, Seungyong Lee, Dongju Kim, Jingi Hong, Jun Shin, Pei Zhang, JeongGil Ko
