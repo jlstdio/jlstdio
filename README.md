@@ -20,7 +20,7 @@ To make the dream possible I'm working on these kinds of topics.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonlee.jlstdio@gmail.com)](mailto:joonlee.jlstdio@gmail.com) : joonlee.jlstdio@gmail.com
 
 ## ✍🏻 Writings
-[Opinions on Various Things and Concepts (KR Only)](https://brunch.co.kr/@jlstdio)
+[Opinions on Various Things and Concepts (KR written, Translatable)](https://brunch.co.kr/@jlstdio)
 
 Recent posts
 - [새로운 교육의 페러다임: 사회적 실패에 대한 관용의 시스템, 그로인한 사회적 비용의 절감](https://brunch.co.kr/@jlstdio/19)
