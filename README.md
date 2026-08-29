@@ -17,7 +17,7 @@ To make the dream possible I'm working on these kinds of topics.
 [CV - Jun 2026](https://github.com/user-attachments/files/29422315/CV.-.Jun.2026.pdf)
 
 ## 📮 You can contact me on...
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonlee.jlstdio@gmail.com)](mailto:joonlee.jlstdio@gmail.com) : neo81389@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonlee.jlstdio@gmail.com)](mailto:joonlee.jlstdio@gmail.com) : joonlee.jlstdio@gmail.com
 
 ## ✍🏻 Writings
 [Opinions on Various Things and Concepts (KR Only)](https://brunch.co.kr/@jlstdio)
