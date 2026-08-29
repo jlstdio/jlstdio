@@ -22,6 +22,13 @@ To make the dream possible I'm working on these kinds of topics.
 ## ✍🏻 Writings
 [Opinions on Various Things and Concepts (KR Only)](https://brunch.co.kr/@jlstdio)
 
+Recent posts
+- [새로운 교육의 페러다임: 사회적 실패에 대한 관용의 시스템, 그로인한 사회적 비용의 절감](https://brunch.co.kr/@jlstdio/19)
+- [좋은 창의력이란: 근본적 원리를 바탕으로 반복적인 고뇌를 통한 좋은 창의력의 발현](https://brunch.co.kr/@jlstdio/17)
+- [AGI를 만들기 위해선 사랑이 필요한 것이 아닐까?: 기술적 관점에서 '자아'있는 AI의 구현법과 기술의 타당성](https://brunch.co.kr/@jlstdio/14)
+- [개인의 신념과 국가(개인) 발전의 상관관계에 대하여: 신념이 없는 것은 국가적 손실이며, 개인에게 있어서도 손실이다.](https://brunch.co.kr/@jlstdio/12)
+- [호문쿨루스 LM: LLM보다 SLM이 되어야 한다, 그리고 이 기술에는 육체가 필요하다](https://brunch.co.kr/@jlstdio/9)
+
 # 📚 Education
 - Advanced class student in [KNU Computer Engineering Education Institute for Gifted](https://gifted.knu.ac.kr/) Dec. 2014 ~ Dec. 2015
 - B.S. Computer Engineering in [Hongik Univ](https://wwwce.hongik.ac.kr/dept/index.html) Mar. 2021 ~ Feb. 2025
