@@ -43,9 +43,7 @@ Recent posts
   - Undergraduate Intern Feb. 2024 ~ Feb. 2025
   - efficient LLM inference & Agentic AI
     - A Dual-Process Architecture for Real-Time VLM-Based System
-  - In Network Computing
-    - Federated Network System for Intermittent Computed Sensors
-  - Federated Learning | Continuous Learning
+  - Federated Learning
       - Efficient FL
 - [HCSlab@CAU](https://sites.google.com/view/hcslab-cau/home?authuser=0) Dec. 2022 ~ Feb. 2025
   - Undergraduate Intern Dec. 2022 ~ Feb. 2025
