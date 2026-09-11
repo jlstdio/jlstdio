@@ -74,17 +74,18 @@ Recent posts
   - Joonhee Lee, Hyunseung Shin, JeongGil Ko
   
 # 🎙️ Activities
-- Review Committee @ NAEK's Engineering Technology Book 2024 ~ Present
+- Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
+  - 2023 Associate Director in Dept of Human Resource
+- Review Committee @ NAEK's Engineering Technology Book 2024 ~ 25
 - [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Aug. 2026
   - 2025 President
   - 2024 Lead of Software Dept
     - Managing Software development & Interactive wall devlopment
   - 2023 Software developer
     - VR interaction & SW infrastructure(Check-in system / Website) development
-- Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
-  - 2023 Associate Director in Dept of Human Resource
   
 # 🏆 Honors & Awards (5 years window)
+- 2025 3nd place [6th Creative Bridge Festival]()
 - 2024 2nd place [5th Creative Bridge Festival](https://swb.skku.edu/scicam/notice.do?mode=view&articleNo=54470&article.offset=0&articleLimit=10)
 - 2024 Scholarship [KFOC](https://kfoc.or.kr//?c=2/10)
 - 2024 1st place [KU-Cambridge Campus Sharing Economy MAKEathon](https://slp.korea.ac.kr/slp/makeathon/Who.do)
@@ -92,11 +93,12 @@ Recent posts
 
 # 🧩 Side Projects
 #### 0️⃣ Currently
+- TBA
+
+#### 0️⃣ Concluded
 - [vibTouch](https://github.com/jlstdio/vibTouch)
 - [Mogak](https://mogak.site) project
     - place recommendation service to meet user's mood, and needs using ML/DL to find image ambiance, and review comment analysis.
-  
-#### 0️⃣ Waiting / Finished
 - [Dum-E](https://github.com/jlstdio/DUM-E) : A small AI robotics project. LLM Reasoning, performing the task by robot arm.
 - [HomemadeNN](https://github.com/jlstdio/HomemadeNN) : Making Neural Net only using Numpy & Pandas.
 - [SKDM](https://github.com/jlstdio/SKDM) : Mobile sensor based keyboard stroke decode model. Using only Acceleration & Audio from mobile device. Upto 93% of the accuracy was achieved.
