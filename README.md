@@ -9,6 +9,8 @@ Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](h
 
 My research interest is mainly efficient inference in robotics and mobile computing.
 
+<img alt="demo_shorten_small" src="https://github.com/user-attachments/assets/4ce4a451-a6eb-4d53-a71e-c639a5209d7a" />
+
 To make the dream possible I'm working on these kinds of topics.
 - Systemic approach for efficient & realtime AI inference on robotics & edges devices
 - Multi modality understanding
