@@ -38,7 +38,7 @@ Recent posts
 
 # 🔬 Experience
 - [University of Michigan, Ann Arbor](https://umich.edu/) Jun. 2026 ~ Dec. 2026
-  - Visiting Scholar Jun. 2026 ~ Dec. 2026
+  - Visiting Scholar Jun. 2026 ~ Jan. 2027
   - Study on Multi-Sensor modality understanding
 - [EISlab@Yonsei Univ](https://www.eis-lab.org/research) Feb. 2024 ~ Present
   - Ph.D. Student Mar. 2025 ~ Present
