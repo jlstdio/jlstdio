@@ -93,8 +93,8 @@ Recent posts
     - VR interaction & SW infrastructure(Check-in system / Website) development
 
 # 🧑‍💼 Volunteering
-- Peer Reviewer, TIOT @ ACM (Association for Computing Machinery) Jun. 2026 ~ Present
-- Reviewer, ICRA 2026 SCR Workshop @ IEEE RAS (Robotics and Automation Society) Apr. 2026
+- <img src="https://github.com/user-attachments/assets/f07ab23c-0dbe-446c-9f28-e5234f706c7f" height="25" style="vertical-align: middle; margin-right: 6px;" /> Peer Reviewer, TIOT @ ACM (Association for Computing Machinery) Jun. 2026 ~ Present
+- <img src="https://github.com/user-attachments/assets/510c2d2f-e1e4-4cf0-92e2-fb456213e09e" height="25" style="vertical-align: middle; margin-right: 6px;" /> Reviewer, ICRA 2026 SCR Workshop @ IEEE RAS (Robotics and Automation Society) Apr. 2026
   
 # 🏆 Honors & Awards (5 years window)
 - 2025 3nd place [6th Creative Bridge Festival]()
