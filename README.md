@@ -74,13 +74,16 @@ Recent posts
   - Gyeongmin Han, Sungmin Lee, JoonHee Lee, Kichang Lee, JeongGil Ko
 - [Conference Poster] UIST 25 [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://programs.sigchi.org/uist/2025/program/content/209334)
   - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
- 
 ## Preprints
 - [Proactive Computing: Realistic frontier about systematic automation](https://arxiv.org/abs/2608.12649)
   - Joonhee Lee
 - [IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation](https://arxiv.org/abs/2601.21506)
   - Joonhee Lee, Hyunseung Shin, JeongGil Ko
-  
+
+# 🧑‍💼 Academic / Professional Service
+- <img src="https://github.com/user-attachments/assets/f07ab23c-0dbe-446c-9f28-e5234f706c7f" height="25" style="vertical-align: middle; margin-right: 6px;" /> Peer Reviewer, TIOT @ ACM (Association for Computing Machinery) Jun. 2026 ~ Present
+- <img src="https://github.com/user-attachments/assets/510c2d2f-e1e4-4cf0-92e2-fb456213e09e" height="25" style="vertical-align: middle; margin-right: 6px;" /> Reviewer, ICRA 2026 SCR Workshop @ IEEE RAS (Robotics and Automation Society) Apr. 2026
+    
 # 🎙️ Activities
 - Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
@@ -91,10 +94,6 @@ Recent posts
     - Managing Software development & Interactive wall devlopment
   - 2023 Software developer
     - VR interaction & SW infrastructure(Check-in system / Website) development
-
-# 🧑‍💼 Volunteering
-- <img src="https://github.com/user-attachments/assets/f07ab23c-0dbe-446c-9f28-e5234f706c7f" height="25" style="vertical-align: middle; margin-right: 6px;" /> Peer Reviewer, TIOT @ ACM (Association for Computing Machinery) Jun. 2026 ~ Present
-- <img src="https://github.com/user-attachments/assets/510c2d2f-e1e4-4cf0-92e2-fb456213e09e" height="25" style="vertical-align: middle; margin-right: 6px;" /> Reviewer, ICRA 2026 SCR Workshop @ IEEE RAS (Robotics and Automation Society) Apr. 2026
   
 # 🏆 Honors & Awards (5 years window)
 - 2025 3nd place [6th Creative Bridge Festival]()
