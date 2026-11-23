@@ -1,11 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 260px;" markdown="1">
 
-# 😎 About Me
 Passionated in enabling "proactive computing".
 
 A system that acts in advance of human's request and provides physical service.
 
 Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](https://sites.google.com/site/jeonggilko)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonlee.jlstdio@gmail.com)](mailto:joonlee.jlstdio@gmail.com) : joonlee.jlstdio@gmail.com
+
+  </div>
+  <div style="flex-shrink: 0;">
+    <img width="200" alt="20260910_122936" src="https://github.com/user-attachments/assets/c4bfbe98-9046-419a-93ab-b1e65dceec6b" style="border-radius: 12px;" />
+  </div>
+</div>
 
 ## ✨ research interest
 
@@ -18,9 +26,6 @@ Mainly working on Robotics and Mobile Computing.
 
 ## 🐧 Curriculum Vitae
 [CV - Jun 2026](https://github.com/user-attachments/files/29422315/CV.-.Jun.2026.pdf)
-
-## 📮 You can contact me on...
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonlee.jlstdio@gmail.com)](mailto:joonlee.jlstdio@gmail.com) : joonlee.jlstdio@gmail.com
 
 ## ✍🏻 Writings
 [Opinions on Various Things and Concepts (KR written, Translatable)](https://brunch.co.kr/@jlstdio)
